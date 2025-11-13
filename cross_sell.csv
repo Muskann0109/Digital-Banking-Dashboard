@@ -1,0 +1,801 @@
+Customer_ID,Primary_Product,Cross_Sell_Product,Date,Channel,Branch_Name
+CUST100456,Current,Loan,2024-03-09,Website,Airport
+CUST100284,Savings,Loan,2023-07-26,Website,West
+CUST100238,Savings,Current,2023-01-28,Branch,Central
+CUST100676,Loan,Loan,2024-11-12,Website,North
+CUST100598,Savings,Current,2023-12-02,Website,City Plaza
+CUST100652,Savings,Savings,2024-08-10,App,Airport
+CUST100671,Savings,Loan,2024-09-19,Branch,West
+CUST100557,Savings,Savings,2023-03-10,App,East
+CUST100371,Savings,Current,2024-05-27,Website,East
+CUST100494,Current,Loan,2023-06-16,App,Airport
+CUST100623,Current,Savings,2024-12-30,Website,East
+CUST100918,Current,Savings,2024-01-03,App,West
+CUST100044,Savings,Loan,2023-09-08,Website,West
+CUST100400,Savings,Current,2024-11-16,Branch,Airport
+CUST100246,Savings,Loan,2023-06-19,App,West
+CUST100615,Savings,Current,2023-03-31,App,City Plaza
+CUST100596,Savings,Current,2024-07-14,Branch,Central
+CUST100449,Savings,Loan,2024-03-21,Website,North
+CUST100484,Savings,Current,2023-10-21,Branch,City Plaza
+CUST100645,Savings,Loan,2023-05-30,App,City Plaza
+CUST100619,Loan,Current,2023-05-12,App,East
+CUST100017,Loan,Current,2024-03-08,App,Central
+CUST100605,Current,Savings,2023-02-28,Branch,Airport
+CUST100661,Loan,Current,2023-07-18,Branch,Uptown
+CUST100757,Current,Current,2023-08-03,Website,East
+CUST100288,Savings,Loan,2024-07-14,App,Central
+CUST100413,Savings,Loan,2024-04-16,Website,West
+CUST100720,Current,Loan,2023-09-04,Agent,Airport
+CUST100637,Current,Loan,2024-01-17,Branch,Uptown
+CUST100234,Current,Loan,2023-08-27,App,Airport
+CUST100415,Current,Savings,2024-01-02,App,Uptown
+CUST100937,Savings,Current,2023-06-17,Agent,Uptown
+CUST100498,Current,Loan,2024-07-13,Website,East
+CUST100973,Loan,Savings,2023-02-20,App,West
+CUST100633,Savings,Loan,2024-09-01,Website,East
+CUST100649,Current,Savings,2024-12-28,Branch,Uptown
+CUST100114,Savings,Loan,2024-11-19,Agent,Uptown
+CUST100931,Current,Savings,2024-01-15,Agent,South
+CUST100673,Current,Savings,2024-04-18,Branch,Central
+CUST100712,Savings,Savings,2023-03-21,App,South
+CUST100233,Current,Loan,2024-11-27,Branch,Central
+CUST100539,Savings,Loan,2024-01-02,App,North
+CUST100010,Current,Loan,2024-04-05,Website,City Plaza
+CUST100205,Savings,Loan,2024-06-22,App,Airport
+CUST100678,Current,Loan,2024-03-27,Branch,East
+CUST100246,Savings,Loan,2024-04-08,App,North
+CUST100558,Current,Savings,2024-04-22,Agent,North
+CUST100757,Savings,Loan,2024-02-24,App,Airport
+CUST100126,Current,Loan,2024-12-07,App,Airport
+CUST100146,Loan,Loan,2023-08-02,Branch,Central
+CUST100117,Loan,Savings,2024-01-04,Agent,South
+CUST100910,Current,Loan,2023-04-24,Website,West
+CUST100381,Current,Loan,2024-05-17,App,Central
+CUST100411,Savings,Current,2024-09-27,Branch,West
+CUST100663,Savings,Current,2024-08-10,Branch,North
+CUST100583,Savings,Current,2023-11-07,Branch,West
+CUST100362,Current,Savings,2024-04-13,App,South
+CUST100508,Loan,Savings,2024-12-08,Website,Central
+CUST100136,Savings,Loan,2023-02-13,App,Uptown
+CUST100174,Loan,Current,2024-02-19,Website,Airport
+CUST100288,Current,Loan,2024-11-28,App,Uptown
+CUST100957,Current,Current,2023-09-03,Website,South
+CUST100480,Savings,Current,2023-03-25,Website,City Plaza
+CUST100018,Savings,Current,2023-07-26,Branch,South
+CUST100194,Savings,Loan,2023-05-31,App,City Plaza
+CUST100329,Current,Savings,2024-10-29,App,Central
+CUST100935,Savings,Current,2024-06-11,Branch,Airport
+CUST100174,Savings,Current,2023-06-14,App,South
+CUST100448,Current,Savings,2023-05-25,App,Uptown
+CUST100924,Current,Loan,2023-02-06,Agent,City Plaza
+CUST100945,Loan,Savings,2023-11-29,App,Airport
+CUST100353,Savings,Loan,2024-02-07,Website,East
+CUST100498,Savings,Current,2024-02-18,App,East
+CUST100140,Current,Loan,2023-02-14,Website,East
+CUST100757,Savings,Current,2024-02-06,App,West
+CUST100896,Savings,Loan,2023-07-25,Website,South
+CUST100929,Savings,Current,2023-03-03,App,Central
+CUST100092,Savings,Current,2024-02-24,App,Uptown
+CUST100943,Savings,Loan,2024-04-12,App,Central
+CUST100238,Savings,Current,2023-01-19,App,West
+CUST100204,Savings,Current,2023-12-31,Branch,Central
+CUST100559,Savings,Current,2023-10-27,Branch,City Plaza
+CUST100432,Current,Current,2023-01-07,Branch,East
+CUST100244,Savings,Current,2024-03-03,Website,Uptown
+CUST100831,Current,Loan,2023-04-27,Branch,South
+CUST100316,Savings,Current,2024-08-02,Branch,Central
+CUST100924,Savings,Current,2024-05-21,Website,Central
+CUST100294,Current,Savings,2024-06-29,App,North
+CUST100639,Savings,Savings,2024-12-06,App,North
+CUST100855,Savings,Current,2023-11-21,Branch,North
+CUST100281,Savings,Current,2023-02-24,Agent,South
+CUST100016,Loan,Savings,2023-02-11,Website,East
+CUST100070,Savings,Current,2023-10-24,Website,Airport
+CUST100268,Savings,Current,2023-08-19,App,East
+CUST100324,Current,Loan,2024-03-28,Website,Uptown
+CUST100793,Savings,Current,2024-01-29,Branch,East
+CUST100304,Savings,Current,2024-06-05,Branch,South
+CUST100450,Savings,Loan,2023-12-24,Branch,City Plaza
+CUST100006,Current,Savings,2024-03-19,App,City Plaza
+CUST100313,Savings,Current,2023-05-08,App,South
+CUST100816,Savings,Current,2024-11-21,App,North
+CUST100102,Savings,Loan,2024-02-09,Branch,Central
+CUST100820,Current,Savings,2024-01-27,App,West
+CUST100192,Savings,Loan,2023-07-12,Website,West
+CUST100752,Loan,Savings,2024-08-26,App,Airport
+CUST100573,Savings,Loan,2023-03-19,Website,Central
+CUST100528,Loan,Savings,2023-03-26,Branch,Airport
+CUST100170,Loan,Current,2023-01-30,Website,North
+CUST100536,Savings,Loan,2024-12-25,App,Airport
+CUST100250,Savings,Loan,2023-02-18,Branch,Central
+CUST100764,Savings,Current,2023-05-25,Branch,Uptown
+CUST100386,Savings,Current,2023-03-10,App,Central
+CUST100206,Current,Savings,2023-02-27,Website,West
+CUST100540,Savings,Current,2024-11-27,App,City Plaza
+CUST100628,Savings,Current,2024-07-27,App,North
+CUST100415,Savings,Loan,2024-04-23,Website,Uptown
+CUST100793,Loan,Savings,2024-03-20,App,South
+CUST100379,Savings,Current,2023-10-23,App,Uptown
+CUST100143,Savings,Loan,2024-11-08,App,Uptown
+CUST100024,Savings,Loan,2023-06-20,Branch,Airport
+CUST100821,Loan,Savings,2024-07-28,App,West
+CUST100667,Current,Loan,2023-05-27,App,Airport
+CUST100072,Savings,Current,2024-04-28,Agent,Airport
+CUST100631,Savings,Loan,2023-11-02,App,South
+CUST100823,Savings,Loan,2024-11-03,App,North
+CUST100832,Savings,Loan,2024-10-14,App,Central
+CUST100092,Loan,Current,2024-08-31,Website,East
+CUST100504,Current,Savings,2024-03-21,Website,Airport
+CUST100597,Savings,Current,2023-08-09,App,East
+CUST100335,Current,Loan,2024-07-08,Website,North
+CUST100424,Savings,Current,2024-01-13,App,East
+CUST100498,Current,Loan,2024-09-11,App,Airport
+CUST100363,Current,Savings,2023-09-23,Branch,South
+CUST100946,Savings,Current,2023-04-05,App,East
+CUST100629,Current,Savings,2023-09-19,Branch,North
+CUST100744,Savings,Current,2023-03-12,Website,North
+CUST100198,Savings,Loan,2023-08-07,App,City Plaza
+CUST100717,Savings,Loan,2024-06-16,Agent,City Plaza
+CUST100412,Savings,Loan,2023-04-02,App,South
+CUST100338,Current,Loan,2023-05-07,App,East
+CUST100658,Loan,Current,2023-03-21,App,East
+CUST100961,Current,Loan,2023-08-26,Branch,City Plaza
+CUST100936,Current,Savings,2024-01-07,App,Central
+CUST100428,Current,Loan,2024-04-30,Branch,West
+CUST100782,Savings,Current,2024-11-24,App,North
+CUST100898,Savings,Current,2023-01-25,App,Central
+CUST100138,Savings,Loan,2023-06-05,Website,North
+CUST100692,Current,Savings,2024-05-31,Branch,Uptown
+CUST100941,Loan,Savings,2024-09-23,Branch,Uptown
+CUST100541,Savings,Current,2024-06-13,App,Central
+CUST100056,Current,Savings,2024-12-10,Website,Uptown
+CUST100231,Current,Current,2023-02-26,Website,City Plaza
+CUST100657,Savings,Current,2024-08-27,App,City Plaza
+CUST100434,Savings,Current,2023-01-19,App,West
+CUST100383,Savings,Current,2024-01-19,Branch,Central
+CUST100559,Savings,Current,2023-07-12,Agent,North
+CUST100193,Savings,Savings,2023-08-25,App,East
+CUST100735,Savings,Current,2024-01-22,App,North
+CUST100647,Savings,Loan,2024-03-01,App,Airport
+CUST100533,Savings,Loan,2023-10-04,Branch,City Plaza
+CUST100517,Current,Current,2023-08-15,Agent,South
+CUST100715,Savings,Loan,2024-07-05,Branch,South
+CUST100750,Current,Loan,2023-11-19,App,City Plaza
+CUST100184,Savings,Current,2023-06-02,Branch,Airport
+CUST100871,Savings,Current,2024-09-30,Website,South
+CUST100291,Loan,Savings,2023-08-25,Website,Uptown
+CUST100334,Savings,Loan,2023-02-24,App,City Plaza
+CUST100731,Savings,Current,2024-03-11,App,South
+CUST100115,Current,Savings,2024-11-14,Website,City Plaza
+CUST100824,Savings,Current,2023-04-19,Branch,West
+CUST100048,Savings,Current,2023-07-03,App,East
+CUST100684,Savings,Current,2024-01-03,Branch,East
+CUST100081,Savings,Savings,2023-07-17,Agent,North
+CUST100833,Savings,Current,2024-01-06,App,Airport
+CUST100332,Savings,Loan,2024-01-08,Website,City Plaza
+CUST100556,Current,Loan,2024-05-11,App,Central
+CUST100334,Current,Savings,2024-08-21,Branch,North
+CUST100531,Current,Savings,2023-07-20,Branch,North
+CUST100959,Current,Savings,2024-05-23,App,City Plaza
+CUST100220,Current,Savings,2023-11-18,App,City Plaza
+CUST100634,Savings,Loan,2023-10-02,Branch,North
+CUST100745,Current,Savings,2023-07-30,Branch,North
+CUST100732,Current,Savings,2024-05-18,Website,East
+CUST100322,Current,Loan,2023-04-28,Agent,Central
+CUST100850,Savings,Savings,2024-12-03,App,Uptown
+CUST100002,Savings,Loan,2024-07-07,App,North
+CUST100693,Savings,Loan,2023-02-11,Branch,Uptown
+CUST100205,Current,Loan,2023-11-11,App,East
+CUST100831,Savings,Current,2023-11-25,Website,North
+CUST100039,Current,Loan,2023-01-17,Branch,South
+CUST100058,Savings,Current,2023-10-10,Branch,North
+CUST100950,Savings,Loan,2023-09-15,Website,City Plaza
+CUST100573,Savings,Loan,2024-07-28,App,Airport
+CUST100643,Savings,Current,2024-07-27,Branch,Airport
+CUST100506,Savings,Loan,2024-09-03,App,North
+CUST100571,Savings,Savings,2023-01-19,App,West
+CUST100883,Loan,Savings,2024-06-12,App,South
+CUST100842,Savings,Loan,2024-02-27,Website,Central
+CUST100121,Savings,Current,2024-04-10,Website,North
+CUST100478,Current,Loan,2024-01-08,App,Uptown
+CUST100618,Current,Loan,2023-03-22,Website,Central
+CUST100095,Current,Loan,2024-07-04,App,South
+CUST100858,Savings,Savings,2024-07-01,Website,North
+CUST100413,Current,Loan,2024-02-28,App,West
+CUST100234,Current,Loan,2024-03-04,Website,East
+CUST100897,Savings,Current,2024-01-23,Website,West
+CUST100061,Savings,Savings,2024-12-09,Branch,City Plaza
+CUST100255,Savings,Current,2024-10-31,Website,West
+CUST100560,Savings,Loan,2023-07-23,Website,Uptown
+CUST100904,Current,Savings,2023-07-15,Website,East
+CUST100347,Savings,Current,2024-12-28,Branch,City Plaza
+CUST100670,Loan,Current,2023-10-12,Website,East
+CUST100123,Savings,Current,2023-07-15,Website,Airport
+CUST100481,Savings,Current,2023-11-03,App,East
+CUST100316,Savings,Current,2024-10-25,Agent,North
+CUST100503,Savings,Current,2023-01-14,Branch,Central
+CUST100718,Current,Savings,2023-05-26,Branch,Airport
+CUST100047,Current,Savings,2023-02-26,App,Airport
+CUST100408,Savings,Current,2024-12-23,App,Central
+CUST100931,Savings,Current,2023-07-29,App,Uptown
+CUST100135,Savings,Loan,2024-06-12,Branch,Airport
+CUST100200,Current,Savings,2023-12-10,Agent,East
+CUST100249,Savings,Savings,2024-12-15,Branch,West
+CUST100313,Savings,Loan,2024-09-02,Branch,South
+CUST100868,Current,Savings,2023-10-06,Branch,Uptown
+CUST100367,Loan,Current,2023-07-28,App,East
+CUST100428,Savings,Loan,2024-10-02,Website,City Plaza
+CUST100829,Savings,Savings,2023-12-01,App,City Plaza
+CUST100806,Current,Loan,2023-10-15,Website,West
+CUST100479,Current,Savings,2023-09-09,Branch,Uptown
+CUST100313,Savings,Loan,2023-09-22,App,Uptown
+CUST100499,Loan,Current,2023-09-28,App,West
+CUST100720,Current,Loan,2024-11-30,App,Uptown
+CUST100354,Savings,Current,2024-02-23,Branch,Airport
+CUST100484,Savings,Loan,2024-12-26,App,North
+CUST100210,Savings,Savings,2023-07-30,App,North
+CUST100703,Current,Savings,2023-12-31,Website,Uptown
+CUST100043,Savings,Current,2023-03-17,App,Airport
+CUST100540,Current,Savings,2024-10-21,Branch,Airport
+CUST100570,Current,Loan,2023-11-17,App,Central
+CUST100582,Savings,Loan,2024-12-25,Branch,Central
+CUST100091,Current,Loan,2024-03-08,Website,South
+CUST100264,Loan,Savings,2023-04-19,App,South
+CUST100894,Savings,Loan,2024-10-02,Branch,South
+CUST100219,Savings,Current,2024-06-05,Agent,South
+CUST100901,Savings,Loan,2023-02-16,App,West
+CUST100924,Current,Loan,2024-01-14,Branch,West
+CUST100441,Loan,Loan,2023-04-06,App,Central
+CUST100400,Savings,Savings,2023-04-13,App,North
+CUST100399,Current,Current,2023-05-26,Website,Airport
+CUST100726,Savings,Current,2023-01-27,Website,City Plaza
+CUST100990,Savings,Loan,2024-06-13,Agent,North
+CUST100898,Savings,Loan,2024-11-09,App,East
+CUST100788,Savings,Savings,2023-03-23,App,West
+CUST100575,Savings,Current,2024-03-03,Website,South
+CUST100857,Savings,Current,2024-08-06,Branch,South
+CUST100803,Savings,Current,2024-04-23,App,East
+CUST100489,Loan,Current,2023-06-11,App,North
+CUST100484,Savings,Current,2024-02-06,Branch,South
+CUST100756,Savings,Current,2024-05-22,App,North
+CUST100469,Savings,Current,2023-02-07,Website,Airport
+CUST100573,Current,Savings,2024-05-25,Website,East
+CUST100937,Savings,Loan,2024-01-28,Branch,City Plaza
+CUST100843,Savings,Current,2024-12-13,Branch,North
+CUST100681,Loan,Current,2024-05-08,App,Airport
+CUST100444,Savings,Loan,2023-07-19,Website,Uptown
+CUST100268,Savings,Loan,2023-09-12,Branch,Uptown
+CUST100266,Current,Savings,2023-06-28,Website,North
+CUST100053,Savings,Savings,2024-06-30,Branch,Uptown
+CUST100527,Savings,Loan,2024-08-16,App,North
+CUST100519,Savings,Savings,2024-01-24,App,South
+CUST100615,Savings,Savings,2024-02-02,Website,Central
+CUST100058,Savings,Current,2023-06-07,Branch,Uptown
+CUST100824,Savings,Current,2023-01-04,App,West
+CUST100039,Savings,Current,2023-06-16,Branch,North
+CUST100236,Savings,Loan,2024-04-12,Website,North
+CUST100954,Current,Savings,2024-02-13,Website,North
+CUST100385,Savings,Current,2024-02-16,Branch,Central
+CUST100605,Savings,Loan,2023-07-23,Website,Airport
+CUST100733,Current,Savings,2023-07-13,App,Uptown
+CUST100715,Current,Savings,2023-08-23,Branch,City Plaza
+CUST100649,Savings,Current,2024-12-18,App,City Plaza
+CUST100299,Loan,Savings,2023-05-30,Branch,East
+CUST100394,Savings,Current,2023-06-08,Website,South
+CUST100206,Savings,Loan,2023-10-06,Website,Central
+CUST100335,Current,Loan,2024-02-08,Branch,Airport
+CUST100592,Savings,Loan,2024-11-08,App,North
+CUST100729,Savings,Loan,2023-11-07,Website,Airport
+CUST100513,Savings,Loan,2023-03-09,Website,Central
+CUST100177,Savings,Current,2024-04-07,App,Central
+CUST100395,Savings,Loan,2023-03-29,Agent,Central
+CUST100370,Loan,Current,2023-08-05,App,East
+CUST100857,Savings,Loan,2023-01-01,App,West
+CUST100790,Current,Loan,2023-05-15,Website,South
+CUST100657,Savings,Current,2024-11-27,App,East
+CUST100317,Current,Savings,2023-12-17,App,East
+CUST100735,Current,Savings,2023-05-20,App,Uptown
+CUST100368,Current,Current,2024-09-09,Website,West
+CUST100383,Savings,Loan,2023-05-13,Website,East
+CUST100061,Savings,Loan,2024-09-11,App,Central
+CUST100805,Savings,Current,2023-06-27,App,Central
+CUST100504,Current,Loan,2023-12-24,App,Uptown
+CUST100238,Current,Savings,2024-01-15,App,Airport
+CUST100194,Savings,Current,2024-10-19,Branch,North
+CUST100677,Savings,Current,2024-03-25,Website,East
+CUST100962,Savings,Loan,2024-08-08,App,North
+CUST100221,Current,Loan,2024-04-07,App,South
+CUST100060,Savings,Loan,2023-04-18,Branch,City Plaza
+CUST100128,Current,Savings,2023-05-02,Branch,Central
+CUST100989,Loan,Current,2023-01-17,Website,Airport
+CUST100684,Savings,Loan,2023-07-15,App,South
+CUST100991,Savings,Current,2023-11-23,Branch,Uptown
+CUST100155,Savings,Loan,2023-11-14,App,Airport
+CUST100916,Savings,Loan,2024-04-23,App,City Plaza
+CUST100377,Savings,Loan,2023-09-09,Branch,City Plaza
+CUST100621,Savings,Loan,2024-05-17,App,Uptown
+CUST100780,Current,Loan,2023-04-29,App,West
+CUST100922,Savings,Current,2024-11-04,App,Uptown
+CUST100867,Savings,Loan,2024-12-10,App,Central
+CUST100902,Loan,Savings,2024-05-12,App,South
+CUST100789,Current,Savings,2024-04-30,Agent,West
+CUST100585,Savings,Current,2023-02-14,App,City Plaza
+CUST100998,Savings,Loan,2023-11-10,App,South
+CUST100436,Savings,Loan,2023-06-28,Branch,Airport
+CUST100974,Current,Savings,2024-02-22,App,West
+CUST100206,Current,Loan,2024-07-09,Website,West
+CUST100387,Current,Current,2023-03-19,Branch,Central
+CUST100479,Savings,Current,2023-11-22,Website,Uptown
+CUST100790,Current,Savings,2024-11-20,Branch,North
+CUST100886,Savings,Loan,2023-12-23,App,Airport
+CUST100837,Savings,Current,2024-02-20,Website,Airport
+CUST100983,Savings,Loan,2024-05-29,App,Uptown
+CUST100339,Savings,Current,2023-08-02,App,West
+CUST100868,Savings,Loan,2023-03-15,Branch,West
+CUST100339,Current,Loan,2024-07-16,Website,Central
+CUST100203,Loan,Current,2024-08-01,Branch,North
+CUST100160,Savings,Loan,2024-05-23,Website,Airport
+CUST100539,Savings,Loan,2023-11-28,Branch,City Plaza
+CUST100391,Savings,Loan,2023-04-03,Website,East
+CUST100768,Savings,Loan,2024-11-18,App,East
+CUST100676,Savings,Current,2024-10-18,Website,North
+CUST100574,Loan,Current,2024-06-02,App,South
+CUST100533,Savings,Current,2023-09-26,Website,Central
+CUST100069,Savings,Loan,2024-01-11,Branch,North
+CUST100892,Savings,Current,2023-01-04,Branch,Uptown
+CUST100404,Current,Loan,2023-05-18,App,Uptown
+CUST100607,Current,Savings,2023-08-19,Branch,East
+CUST100674,Loan,Current,2024-08-22,Branch,West
+CUST100590,Current,Loan,2024-06-12,Website,East
+CUST100516,Savings,Current,2023-02-21,Agent,West
+CUST100827,Savings,Loan,2024-10-07,App,Central
+CUST100119,Current,Savings,2024-12-23,Website,West
+CUST100813,Savings,Loan,2023-11-21,App,North
+CUST100689,Savings,Loan,2024-12-17,App,West
+CUST100687,Savings,Current,2024-12-23,Website,South
+CUST100901,Savings,Savings,2023-10-04,App,Uptown
+CUST100216,Savings,Current,2024-06-19,Agent,North
+CUST100055,Savings,Current,2024-04-30,App,Uptown
+CUST100365,Current,Current,2024-05-30,App,Central
+CUST100698,Savings,Current,2023-06-01,Branch,North
+CUST100503,Savings,Savings,2024-04-27,Branch,South
+CUST100743,Savings,Savings,2023-09-16,Branch,Central
+CUST100766,Savings,Current,2023-11-20,Agent,East
+CUST100924,Savings,Loan,2023-06-17,Website,South
+CUST100454,Savings,Current,2024-11-18,Website,Central
+CUST100103,Savings,Current,2023-11-06,App,City Plaza
+CUST100076,Savings,Current,2024-04-23,App,West
+CUST100229,Savings,Current,2023-02-25,Branch,North
+CUST100913,Savings,Current,2024-09-11,App,Central
+CUST100257,Savings,Current,2024-04-17,App,North
+CUST100263,Savings,Savings,2023-10-23,Website,West
+CUST100330,Savings,Loan,2024-04-05,App,Central
+CUST100992,Current,Loan,2023-11-20,Branch,East
+CUST100181,Savings,Loan,2023-05-21,Branch,City Plaza
+CUST100892,Savings,Loan,2024-10-28,Branch,City Plaza
+CUST100767,Savings,Current,2023-09-19,App,South
+CUST100549,Current,Loan,2024-02-24,Website,Central
+CUST100687,Current,Current,2023-08-29,App,West
+CUST100026,Current,Savings,2023-12-21,Website,Central
+CUST100275,Current,Loan,2024-08-11,App,North
+CUST100651,Savings,Loan,2023-06-29,App,Airport
+CUST100298,Current,Current,2023-03-07,Branch,Uptown
+CUST100956,Savings,Loan,2023-12-14,Website,Central
+CUST100798,Savings,Current,2023-06-20,Website,City Plaza
+CUST100090,Savings,Current,2024-04-18,Branch,City Plaza
+CUST100479,Savings,Current,2024-06-17,App,Uptown
+CUST100572,Loan,Current,2024-01-02,App,City Plaza
+CUST100457,Savings,Current,2023-04-17,App,East
+CUST100450,Current,Loan,2024-03-14,Website,Central
+CUST100364,Savings,Current,2023-08-15,App,South
+CUST100858,Savings,Current,2024-03-19,App,Central
+CUST100674,Savings,Loan,2024-03-17,Branch,Airport
+CUST100350,Savings,Loan,2024-01-31,Branch,City Plaza
+CUST100654,Current,Savings,2024-12-28,Branch,North
+CUST100399,Savings,Current,2024-08-03,Branch,City Plaza
+CUST100252,Savings,Loan,2023-03-25,Website,Central
+CUST100780,Current,Savings,2024-09-06,Website,East
+CUST100880,Savings,Current,2024-07-04,Branch,West
+CUST100802,Loan,Current,2023-01-13,Website,Central
+CUST100458,Savings,Loan,2024-11-23,Branch,Central
+CUST100698,Savings,Current,2024-05-07,App,South
+CUST100916,Savings,Loan,2023-09-25,Branch,East
+CUST100498,Savings,Savings,2024-06-08,App,Airport
+CUST100949,Savings,Loan,2023-04-30,App,West
+CUST100970,Current,Loan,2023-12-19,App,City Plaza
+CUST100925,Current,Loan,2023-02-26,App,North
+CUST100507,Current,Current,2023-02-09,Agent,Central
+CUST100303,Savings,Loan,2023-12-02,Branch,Airport
+CUST100500,Savings,Current,2024-10-01,Branch,West
+CUST100802,Savings,Loan,2023-06-22,Branch,North
+CUST100597,Savings,Loan,2024-06-30,App,Airport
+CUST100165,Current,Savings,2023-09-16,Branch,East
+CUST100414,Savings,Current,2024-05-31,Website,East
+CUST100461,Savings,Loan,2024-12-30,App,West
+CUST100919,Savings,Loan,2024-06-06,App,City Plaza
+CUST100113,Loan,Savings,2023-04-27,App,Uptown
+CUST100432,Savings,Loan,2023-07-03,Branch,North
+CUST100991,Savings,Current,2023-04-26,Branch,East
+CUST100355,Savings,Current,2023-06-11,App,Uptown
+CUST100927,Savings,Loan,2024-08-01,App,West
+CUST100694,Savings,Current,2024-12-12,Branch,East
+CUST100206,Savings,Current,2024-06-26,Branch,East
+CUST100767,Current,Current,2024-08-09,Agent,Airport
+CUST100234,Savings,Current,2023-08-25,Branch,Uptown
+CUST100441,Current,Savings,2023-03-07,Website,Airport
+CUST100354,Loan,Loan,2023-03-11,Website,East
+CUST100514,Current,Loan,2024-03-22,App,Uptown
+CUST100207,Savings,Loan,2024-02-20,Branch,South
+CUST100708,Savings,Loan,2024-06-15,Branch,Uptown
+CUST100852,Current,Savings,2024-03-16,App,Airport
+CUST100124,Current,Loan,2024-04-08,App,North
+CUST100137,Savings,Loan,2024-01-31,Website,West
+CUST100338,Current,Loan,2024-12-11,Website,West
+CUST100536,Savings,Loan,2024-07-04,App,City Plaza
+CUST100067,Savings,Loan,2024-10-18,Branch,North
+CUST100572,Savings,Loan,2024-07-10,Branch,North
+CUST100540,Savings,Loan,2024-01-30,Website,North
+CUST100382,Savings,Loan,2023-11-22,Branch,City Plaza
+CUST100018,Current,Loan,2023-04-01,Branch,North
+CUST100682,Savings,Loan,2023-03-11,Website,Central
+CUST100449,Savings,Loan,2023-06-15,App,City Plaza
+CUST100073,Savings,Loan,2024-10-03,Website,West
+CUST100572,Savings,Loan,2023-08-02,App,Central
+CUST100938,Savings,Loan,2024-08-23,Branch,City Plaza
+CUST100664,Current,Loan,2023-12-01,Website,East
+CUST100275,Current,Current,2024-01-04,App,East
+CUST100047,Current,Loan,2024-08-06,App,West
+CUST100210,Current,Loan,2024-11-07,App,East
+CUST100854,Savings,Loan,2023-02-18,Branch,North
+CUST100919,Savings,Savings,2023-02-21,App,City Plaza
+CUST100650,Savings,Loan,2023-10-16,Branch,Central
+CUST100621,Savings,Loan,2024-09-17,App,North
+CUST100993,Loan,Current,2023-08-27,App,East
+CUST100694,Savings,Loan,2023-05-13,Website,Airport
+CUST100539,Savings,Current,2023-06-15,Website,Uptown
+CUST100708,Current,Savings,2024-01-09,Branch,Central
+CUST100190,Loan,Loan,2024-01-08,App,North
+CUST100314,Current,Loan,2024-04-22,App,City Plaza
+CUST100900,Savings,Loan,2024-04-23,Branch,West
+CUST100562,Savings,Savings,2024-10-11,Website,North
+CUST100660,Savings,Loan,2024-08-13,Website,Airport
+CUST100779,Savings,Loan,2024-11-12,Branch,East
+CUST100561,Savings,Loan,2024-09-26,App,Central
+CUST100899,Savings,Loan,2024-11-18,Branch,West
+CUST100757,Loan,Savings,2023-10-27,App,Central
+CUST100112,Savings,Loan,2023-03-23,Branch,West
+CUST100169,Current,Loan,2023-03-28,Agent,Uptown
+CUST100467,Current,Savings,2023-08-13,Website,City Plaza
+CUST100677,Savings,Loan,2023-01-16,App,Central
+CUST100920,Current,Savings,2023-12-24,App,East
+CUST100013,Savings,Current,2023-06-12,Website,City Plaza
+CUST100714,Savings,Current,2024-09-01,App,City Plaza
+CUST100287,Current,Savings,2024-10-29,Branch,Uptown
+CUST100906,Savings,Loan,2024-05-28,App,West
+CUST100188,Loan,Current,2023-12-16,Website,South
+CUST100913,Savings,Loan,2024-11-11,App,Central
+CUST100154,Savings,Current,2024-04-08,App,Central
+CUST100566,Savings,Current,2024-01-10,Website,North
+CUST100693,Savings,Current,2023-04-02,Website,West
+CUST100721,Savings,Loan,2023-06-30,Website,Airport
+CUST100887,Current,Savings,2023-10-28,Branch,South
+CUST100470,Current,Loan,2024-10-21,App,East
+CUST100074,Current,Savings,2023-07-08,Website,North
+CUST100276,Savings,Loan,2023-11-10,Website,Uptown
+CUST100939,Current,Savings,2024-05-07,App,South
+CUST100644,Current,Savings,2023-05-08,Branch,West
+CUST100342,Current,Loan,2024-06-02,Website,South
+CUST100424,Savings,Current,2024-03-01,Website,Uptown
+CUST100570,Current,Savings,2024-07-12,Branch,City Plaza
+CUST100510,Current,Loan,2024-07-18,App,Central
+CUST100856,Savings,Loan,2023-07-06,Branch,City Plaza
+CUST100181,Current,Loan,2024-07-03,App,Central
+CUST100457,Savings,Current,2024-03-28,Branch,North
+CUST100917,Savings,Current,2024-04-15,App,Uptown
+CUST100850,Savings,Current,2024-07-18,App,West
+CUST100832,Savings,Current,2023-08-12,App,West
+CUST100063,Savings,Loan,2023-06-03,App,South
+CUST100838,Current,Loan,2024-07-13,Website,North
+CUST100259,Savings,Current,2023-12-17,Branch,West
+CUST100192,Current,Loan,2023-05-27,Branch,Airport
+CUST100654,Current,Savings,2024-07-29,Website,Airport
+CUST100615,Savings,Loan,2023-12-15,Branch,City Plaza
+CUST100971,Current,Savings,2023-07-01,Agent,Central
+CUST100405,Loan,Savings,2024-09-28,Website,South
+CUST100725,Current,Loan,2023-06-28,App,East
+CUST100753,Current,Loan,2023-02-08,Agent,Uptown
+CUST100942,Loan,Current,2023-01-03,Branch,Central
+CUST100720,Current,Savings,2023-03-05,App,North
+CUST100092,Savings,Current,2023-01-29,App,West
+CUST100429,Current,Loan,2024-01-07,App,Central
+CUST100653,Current,Savings,2024-06-06,Website,East
+CUST100433,Savings,Loan,2023-04-07,Branch,East
+CUST100403,Savings,Current,2024-03-17,App,Airport
+CUST100433,Current,Loan,2023-07-22,App,North
+CUST100111,Savings,Loan,2024-02-15,App,Central
+CUST100928,Loan,Savings,2023-01-21,App,South
+CUST100374,Savings,Loan,2024-07-04,App,Central
+CUST100058,Savings,Loan,2023-04-12,Website,Airport
+CUST100042,Savings,Current,2023-02-15,Branch,City Plaza
+CUST100206,Savings,Savings,2023-03-07,Website,East
+CUST100779,Current,Loan,2024-08-25,App,North
+CUST100295,Loan,Savings,2023-06-13,Website,North
+CUST100117,Current,Savings,2023-04-21,Website,South
+CUST100531,Savings,Current,2023-12-04,Branch,North
+CUST100221,Savings,Loan,2023-05-03,App,Airport
+CUST100165,Current,Loan,2024-12-05,Website,Airport
+CUST100642,Loan,Current,2024-03-22,App,Airport
+CUST100155,Savings,Savings,2024-09-02,Agent,North
+CUST100183,Savings,Loan,2023-10-18,App,North
+CUST100089,Savings,Loan,2024-11-01,Branch,Airport
+CUST100093,Current,Savings,2024-02-16,App,North
+CUST100012,Current,Loan,2024-09-06,Agent,Uptown
+CUST100972,Savings,Current,2023-10-08,App,North
+CUST100833,Savings,Loan,2023-02-12,Website,Uptown
+CUST100804,Current,Savings,2024-04-30,Website,East
+CUST100944,Savings,Current,2024-08-18,App,Central
+CUST100741,Savings,Current,2024-12-03,Branch,West
+CUST100833,Savings,Current,2023-02-20,Website,Uptown
+CUST100803,Savings,Loan,2023-07-29,App,Uptown
+CUST100437,Savings,Loan,2023-05-06,Website,North
+CUST100537,Current,Loan,2024-05-06,App,West
+CUST100586,Current,Loan,2024-05-23,App,City Plaza
+CUST100967,Current,Loan,2024-08-03,Website,West
+CUST100875,Current,Savings,2023-09-15,App,East
+CUST100935,Savings,Current,2023-07-07,App,Uptown
+CUST100810,Current,Loan,2023-08-18,App,North
+CUST100149,Savings,Loan,2023-07-08,App,Airport
+CUST100659,Current,Savings,2024-02-19,App,West
+CUST100007,Loan,Savings,2023-01-10,Website,North
+CUST100028,Savings,Current,2023-04-24,App,South
+CUST100295,Savings,Loan,2023-03-17,App,City Plaza
+CUST100985,Savings,Current,2024-11-06,App,Airport
+CUST100925,Savings,Loan,2024-05-16,App,South
+CUST100720,Savings,Loan,2023-03-26,App,South
+CUST100639,Current,Savings,2023-02-18,Website,West
+CUST100339,Loan,Loan,2024-05-09,Website,South
+CUST100627,Savings,Loan,2024-11-19,App,East
+CUST100438,Savings,Loan,2024-01-22,App,East
+CUST100143,Savings,Loan,2024-01-24,Branch,West
+CUST100941,Current,Loan,2023-08-06,App,North
+CUST100829,Savings,Loan,2024-12-01,App,Central
+CUST100746,Savings,Current,2023-12-12,App,North
+CUST100518,Savings,Current,2023-08-18,App,North
+CUST100975,Savings,Current,2023-09-12,Branch,North
+CUST100044,Savings,Current,2023-08-24,Branch,North
+CUST100954,Current,Savings,2023-01-26,Agent,Airport
+CUST100238,Savings,Current,2024-08-06,App,Central
+CUST100951,Current,Savings,2023-09-18,App,Airport
+CUST100943,Savings,Loan,2023-09-28,Branch,South
+CUST100154,Current,Loan,2023-05-03,Branch,City Plaza
+CUST100180,Current,Current,2024-10-17,Website,North
+CUST100214,Savings,Loan,2023-09-14,App,City Plaza
+CUST100087,Savings,Loan,2024-10-17,App,East
+CUST100255,Savings,Loan,2024-02-25,Branch,West
+CUST100510,Current,Savings,2023-09-16,Website,West
+CUST100072,Savings,Current,2023-02-16,Branch,Airport
+CUST100930,Loan,Loan,2024-06-08,Branch,Airport
+CUST100178,Savings,Loan,2023-07-27,App,East
+CUST100211,Current,Loan,2023-11-07,App,North
+CUST100804,Current,Savings,2023-05-29,Branch,City Plaza
+CUST100233,Current,Savings,2024-03-13,App,Uptown
+CUST100464,Savings,Loan,2023-06-04,App,City Plaza
+CUST100750,Savings,Loan,2024-11-08,Website,Central
+CUST100222,Current,Savings,2023-03-31,App,South
+CUST100630,Savings,Current,2024-11-28,Branch,West
+CUST100824,Savings,Loan,2023-12-24,App,South
+CUST100263,Savings,Loan,2023-06-23,Agent,Central
+CUST100206,Savings,Current,2023-08-05,App,Airport
+CUST100606,Savings,Loan,2024-03-31,Website,City Plaza
+CUST100884,Savings,Current,2024-08-31,Branch,West
+CUST100733,Savings,Current,2024-09-20,App,South
+CUST100365,Current,Loan,2023-07-18,Branch,Uptown
+CUST100275,Current,Savings,2024-04-30,App,Airport
+CUST100379,Current,Loan,2024-06-16,Website,Central
+CUST100742,Loan,Current,2023-07-19,Agent,Uptown
+CUST100308,Savings,Loan,2024-01-06,App,South
+CUST100630,Savings,Current,2024-03-23,App,Uptown
+CUST100267,Savings,Current,2023-09-05,Website,City Plaza
+CUST100944,Savings,Current,2023-09-21,App,North
+CUST100784,Loan,Current,2023-02-27,Branch,Uptown
+CUST100063,Savings,Loan,2023-10-29,App,Airport
+CUST100809,Savings,Loan,2023-01-31,Branch,Central
+CUST100349,Savings,Loan,2024-05-12,App,South
+CUST100924,Savings,Savings,2023-09-06,App,City Plaza
+CUST100914,Current,Loan,2024-08-27,App,North
+CUST100493,Savings,Current,2023-09-28,App,North
+CUST100522,Loan,Savings,2024-08-28,Branch,Central
+CUST100097,Savings,Loan,2024-10-27,App,East
+CUST100945,Savings,Current,2024-01-29,Website,City Plaza
+CUST100070,Current,Savings,2024-05-16,App,City Plaza
+CUST100363,Savings,Loan,2024-08-14,App,West
+CUST100569,Loan,Current,2023-03-25,Website,Central
+CUST100801,Loan,Savings,2023-12-31,Website,North
+CUST100762,Current,Loan,2024-07-02,Branch,North
+CUST100275,Current,Loan,2023-12-08,Branch,Uptown
+CUST100049,Savings,Loan,2024-02-11,Website,Central
+CUST100357,Loan,Savings,2024-02-29,Website,East
+CUST100727,Savings,Current,2023-04-03,Agent,West
+CUST100905,Current,Loan,2024-09-05,Website,South
+CUST100927,Loan,Current,2024-02-16,App,Central
+CUST100563,Loan,Current,2024-03-07,App,West
+CUST100782,Current,Loan,2024-11-08,Branch,City Plaza
+CUST100484,Savings,Current,2023-06-08,Branch,West
+CUST100083,Loan,Savings,2023-01-14,App,Uptown
+CUST100898,Current,Loan,2024-01-08,App,Airport
+CUST100804,Loan,Savings,2023-08-13,App,North
+CUST100637,Current,Savings,2024-05-19,Website,Uptown
+CUST100807,Savings,Loan,2023-03-14,App,South
+CUST100583,Savings,Current,2023-09-06,App,Central
+CUST100295,Savings,Current,2024-05-25,Branch,Uptown
+CUST100235,Current,Savings,2024-08-25,App,North
+CUST100055,Savings,Current,2023-08-04,Website,Airport
+CUST100918,Savings,Current,2024-08-24,App,Uptown
+CUST100359,Savings,Loan,2024-06-24,Agent,Airport
+CUST100906,Current,Loan,2023-08-08,App,Uptown
+CUST100109,Savings,Current,2024-12-27,App,North
+CUST100191,Savings,Loan,2023-08-09,App,East
+CUST100903,Savings,Current,2024-01-24,App,West
+CUST100092,Savings,Loan,2024-07-07,Website,Central
+CUST100861,Savings,Loan,2024-10-08,App,Central
+CUST100567,Savings,Loan,2023-02-11,Website,Central
+CUST100059,Savings,Loan,2024-11-06,Branch,North
+CUST100649,Loan,Savings,2023-10-10,Website,City Plaza
+CUST100038,Current,Savings,2023-02-27,Branch,East
+CUST100539,Savings,Loan,2024-06-20,Website,South
+CUST100048,Loan,Savings,2023-03-14,App,Airport
+CUST100419,Savings,Current,2023-05-09,App,North
+CUST100636,Current,Loan,2024-08-21,App,City Plaza
+CUST100012,Current,Loan,2024-03-01,Website,South
+CUST100991,Savings,Loan,2024-10-26,Branch,Airport
+CUST100035,Savings,Current,2024-11-24,App,Airport
+CUST100100,Savings,Loan,2023-05-05,Website,East
+CUST100793,Savings,Current,2023-03-08,App,West
+CUST100085,Current,Savings,2023-01-06,Branch,Central
+CUST100515,Savings,Loan,2024-09-28,App,Uptown
+CUST100222,Savings,Current,2023-11-10,App,South
+CUST100337,Savings,Current,2023-11-22,Website,North
+CUST100959,Savings,Loan,2024-07-18,Website,South
+CUST100165,Savings,Current,2024-07-31,App,West
+CUST100382,Savings,Current,2024-05-20,Agent,Central
+CUST100855,Current,Savings,2023-03-23,App,South
+CUST100894,Savings,Loan,2024-08-21,Branch,West
+CUST100375,Savings,Loan,2023-01-02,App,North
+CUST100470,Current,Loan,2023-07-23,App,East
+CUST100789,Savings,Loan,2024-10-23,Branch,City Plaza
+CUST100641,Current,Loan,2024-02-08,Website,Airport
+CUST100030,Current,Loan,2023-04-13,Website,North
+CUST100374,Savings,Current,2024-06-19,App,Central
+CUST100010,Savings,Current,2024-01-03,App,Airport
+CUST100987,Savings,Loan,2023-07-31,Website,City Plaza
+CUST100301,Savings,Current,2024-07-30,Website,North
+CUST100095,Savings,Savings,2023-07-28,Website,Uptown
+CUST100189,Savings,Loan,2023-04-27,App,North
+CUST100452,Savings,Loan,2024-09-19,Website,North
+CUST100191,Savings,Current,2024-04-22,App,Uptown
+CUST100485,Current,Savings,2023-04-15,App,North
+CUST100265,Savings,Current,2024-05-09,Branch,Airport
+CUST100423,Savings,Loan,2023-02-15,Branch,Central
+CUST100127,Savings,Loan,2023-11-27,App,City Plaza
+CUST100237,Current,Current,2023-08-04,App,West
+CUST100919,Savings,Current,2024-05-06,Branch,South
+CUST100354,Current,Savings,2024-03-24,Website,Uptown
+CUST100939,Savings,Current,2024-06-19,Branch,East
+CUST100111,Current,Loan,2024-05-25,App,Uptown
+CUST100827,Savings,Loan,2024-04-02,App,City Plaza
+CUST100445,Savings,Current,2024-06-30,Agent,South
+CUST100342,Savings,Loan,2024-06-19,App,South
+CUST100144,Savings,Current,2024-06-23,Branch,East
+CUST100064,Savings,Loan,2024-04-28,App,City Plaza
+CUST100246,Savings,Loan,2023-01-16,Website,Airport
+CUST100734,Current,Savings,2024-07-24,Agent,Central
+CUST100990,Loan,Savings,2023-08-31,App,East
+CUST100489,Savings,Savings,2023-07-26,App,Central
+CUST100824,Savings,Loan,2023-09-28,Website,Airport
+CUST100438,Savings,Loan,2024-12-05,Branch,South
+CUST100105,Current,Loan,2024-12-30,App,Central
+CUST100180,Savings,Current,2023-04-25,App,Airport
+CUST100183,Loan,Current,2024-08-02,Branch,Airport
+CUST100225,Savings,Loan,2023-10-26,App,West
+CUST100776,Savings,Loan,2024-04-27,App,East
+CUST100789,Current,Savings,2024-02-01,App,West
+CUST100908,Current,Savings,2024-01-29,Website,Uptown
+CUST100088,Savings,Current,2023-03-16,App,South
+CUST100687,Savings,Current,2024-04-26,Website,East
+CUST100529,Loan,Savings,2023-04-13,Branch,South
+CUST100370,Savings,Current,2023-10-24,App,West
+CUST100971,Current,Savings,2023-06-27,Branch,City Plaza
+CUST100935,Savings,Current,2023-08-03,Website,Airport
+CUST100912,Current,Loan,2023-11-11,Website,South
+CUST100398,Current,Savings,2023-02-08,App,East
+CUST100105,Savings,Current,2023-09-16,Website,Uptown
+CUST100270,Current,Savings,2024-12-16,App,East
+CUST100974,Savings,Current,2023-01-07,Agent,South
+CUST100830,Savings,Loan,2023-02-18,Website,East
+CUST100502,Savings,Current,2024-06-21,Website,Uptown
+CUST100678,Savings,Loan,2023-06-10,App,Airport
+CUST100524,Current,Current,2023-06-25,Branch,City Plaza
+CUST100848,Savings,Loan,2024-08-13,App,Airport
+CUST100031,Savings,Loan,2023-01-02,Branch,East
+CUST100392,Savings,Loan,2024-03-30,App,Uptown
+CUST100039,Savings,Loan,2024-10-05,App,Uptown
+CUST100659,Savings,Current,2023-10-03,App,South
+CUST100217,Current,Savings,2024-05-12,Branch,West
+CUST100730,Loan,Current,2024-09-20,Branch,East
+CUST100980,Current,Savings,2024-11-06,App,East
+CUST100081,Savings,Current,2023-01-28,Agent,East
+CUST100844,Savings,Loan,2023-11-29,App,East
+CUST100719,Savings,Loan,2023-01-01,App,South
+CUST100200,Savings,Current,2023-07-07,Website,West
+CUST100446,Savings,Loan,2023-02-25,App,West
+CUST100843,Savings,Current,2024-06-30,App,Central
+CUST100427,Savings,Loan,2023-04-22,App,East
+CUST100037,Loan,Savings,2023-11-06,Branch,East
+CUST100210,Savings,Current,2023-02-05,Agent,Central
+CUST100443,Savings,Loan,2024-03-14,Branch,West
+CUST100326,Savings,Loan,2024-12-29,App,Uptown
+CUST100760,Savings,Loan,2024-08-14,Branch,Uptown
+CUST100226,Current,Savings,2024-08-17,Branch,North
+CUST100047,Savings,Current,2024-07-30,Website,Airport
+CUST100017,Savings,Loan,2023-11-21,Branch,North
+CUST100911,Savings,Current,2024-10-01,Branch,West
+CUST100438,Savings,Current,2023-11-03,App,City Plaza
+CUST100806,Savings,Current,2024-06-17,Branch,East
+CUST100707,Current,Loan,2024-12-28,Branch,North
+CUST100186,Current,Current,2024-09-10,Website,South
+CUST100344,Current,Current,2023-04-19,Website,Uptown
+CUST100223,Savings,Loan,2024-01-07,Website,South
+CUST100829,Current,Savings,2023-12-23,Website,Central
+CUST100487,Savings,Current,2023-06-30,App,West
+CUST100908,Savings,Loan,2023-12-22,Branch,West
+CUST100876,Current,Savings,2024-11-06,Website,North
+CUST100848,Savings,Savings,2023-03-09,Website,East
+CUST100228,Savings,Current,2023-10-19,Website,West
+CUST100389,Current,Current,2024-11-22,App,North
+CUST100978,Savings,Loan,2023-06-30,Branch,North
+CUST100588,Savings,Loan,2024-04-10,Website,Airport
+CUST100187,Savings,Current,2024-03-09,Website,Airport
+CUST100857,Current,Savings,2024-04-08,Agent,West
+CUST100269,Loan,Savings,2024-11-11,Branch,North
+CUST100606,Current,Savings,2024-06-17,Branch,Central
+CUST100309,Savings,Current,2023-03-07,Branch,Central
+CUST100131,Savings,Loan,2023-01-21,Website,Airport
+CUST100550,Savings,Current,2024-09-03,Branch,West
+CUST100071,Savings,Loan,2024-01-19,Branch,Uptown
+CUST100792,Savings,Loan,2024-09-06,Agent,East
+CUST100844,Savings,Current,2024-07-12,Branch,City Plaza
+CUST100671,Savings,Savings,2023-02-08,Website,Uptown
+CUST100186,Loan,Savings,2023-10-12,App,Central
+CUST100485,Savings,Current,2024-08-24,Website,Central
+CUST100190,Savings,Loan,2024-08-19,App,Uptown
+CUST100421,Savings,Loan,2023-12-02,Website,Airport
+CUST100119,Loan,Savings,2023-07-07,Website,Airport
+CUST100219,Current,Savings,2024-11-01,Branch,West
+CUST100052,Current,Loan,2023-08-31,Branch,Airport
+CUST100733,Loan,Savings,2023-03-14,App,South
+CUST100450,Savings,Loan,2024-04-23,App,City Plaza
+CUST100411,Savings,Savings,2024-07-14,Website,Uptown
+CUST100642,Savings,Savings,2023-04-11,App,Uptown
+CUST100236,Savings,Current,2024-05-28,App,North
+CUST100757,Savings,Current,2023-06-25,Branch,Central
+CUST100737,Savings,Current,2023-08-26,Website,Uptown
+CUST100719,Loan,Savings,2023-02-28,Agent,South
+CUST100405,Loan,Savings,2023-04-09,App,Uptown
+CUST100607,Current,Savings,2024-05-09,App,East
+CUST100421,Current,Current,2024-05-28,Branch,South
+CUST100711,Current,Current,2023-10-24,App,West
+CUST100246,Savings,Current,2023-07-30,App,East
+CUST100071,Savings,Current,2023-05-03,Branch,East
+CUST100829,Current,Savings,2023-08-17,App,Uptown
+CUST100184,Current,Savings,2024-08-16,App,Airport
+CUST100005,Savings,Loan,2024-10-17,App,Uptown
+CUST100205,Loan,Current,2024-01-23,App,South
+CUST100543,Savings,Loan,2023-05-20,Branch,West
+CUST100610,Savings,Loan,2024-06-24,Website,Central
+CUST100905,Current,Loan,2024-01-26,Website,City Plaza
+CUST100386,Savings,Loan,2023-09-27,App,Airport
+CUST100767,Savings,Current,2023-01-12,Branch,South
+CUST100698,Savings,Loan,2024-01-24,Website,Central
+CUST100075,Current,Loan,2023-12-03,Agent,South
+CUST100176,Savings,Current,2024-05-20,Branch,Airport

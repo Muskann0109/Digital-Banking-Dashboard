@@ -1,0 +1,1001 @@
+Date,Customer_ID,Product_Type,Branch_Name,Acquisition_Channel
+2023-04-13,CUST100000,Savings,City Plaza,Website
+2024-03-11,CUST100001,Savings,South,App
+2023-09-28,CUST100002,Savings,City Plaza,Website
+2023-04-17,CUST100003,Current,South,Agent
+2023-03-13,CUST100004,Current,West,App
+2024-12-01,CUST100005,Savings,South,App
+2023-01-21,CUST100006,Loan,North,App
+2024-09-06,CUST100007,Current,North,App
+2023-05-02,CUST100008,Savings,Central,App
+2024-04-11,CUST100009,Loan,North,App
+2023-08-03,CUST100010,Loan,Airport,Branch
+2023-11-27,CUST100011,Savings,South,Branch
+2024-04-03,CUST100012,Savings,North,Branch
+2023-03-29,CUST100013,Loan,West,Branch
+2024-01-08,CUST100014,Current,City Plaza,Branch
+2023-04-10,CUST100015,Savings,Uptown,App
+2024-10-25,CUST100016,Current,City Plaza,Branch
+2023-05-11,CUST100017,Current,Central,Website
+2024-10-23,CUST100018,Current,City Plaza,Branch
+2023-11-05,CUST100019,Current,South,Branch
+2023-12-10,CUST100020,Current,Central,Website
+2024-05-06,CUST100021,Savings,South,App
+2024-02-18,CUST100022,Savings,West,Branch
+2024-01-21,CUST100023,Current,Central,Website
+2023-07-11,CUST100024,Loan,East,Website
+2023-10-04,CUST100025,Savings,Airport,Branch
+2023-06-10,CUST100026,Current,Airport,Branch
+2024-04-04,CUST100027,Current,South,Agent
+2023-11-10,CUST100028,Savings,City Plaza,App
+2023-01-22,CUST100029,Current,Uptown,App
+2023-09-10,CUST100030,Loan,Uptown,Website
+2024-07-14,CUST100031,Current,East,Branch
+2024-04-19,CUST100032,Savings,Central,App
+2023-02-28,CUST100033,Savings,East,Branch
+2024-05-25,CUST100034,Current,East,Website
+2024-11-12,CUST100035,Savings,City Plaza,App
+2024-04-20,CUST100036,Savings,Uptown,App
+2024-11-30,CUST100037,Savings,Central,Branch
+2023-07-09,CUST100038,Savings,West,Branch
+2024-11-17,CUST100039,Savings,City Plaza,App
+2024-07-16,CUST100040,Savings,East,Website
+2024-07-20,CUST100041,Savings,East,App
+2023-09-01,CUST100042,Savings,West,Branch
+2024-05-19,CUST100043,Current,East,Website
+2023-05-11,CUST100044,Current,East,Branch
+2024-04-29,CUST100045,Savings,East,Agent
+2024-10-08,CUST100046,Loan,Airport,Branch
+2023-01-21,CUST100047,Savings,City Plaza,App
+2023-06-16,CUST100048,Current,North,Branch
+2023-10-01,CUST100049,Current,City Plaza,Website
+2024-01-23,CUST100050,Loan,West,App
+2024-08-23,CUST100051,Current,East,Branch
+2023-11-12,CUST100052,Current,City Plaza,Branch
+2023-01-14,CUST100053,Current,Airport,Branch
+2023-08-30,CUST100054,Savings,Uptown,Branch
+2023-12-12,CUST100055,Savings,West,Website
+2024-07-18,CUST100056,Current,South,App
+2023-12-06,CUST100057,Savings,City Plaza,Website
+2023-04-02,CUST100058,Current,South,App
+2024-01-02,CUST100059,Savings,East,App
+2024-03-30,CUST100060,Savings,Airport,Branch
+2024-03-03,CUST100061,Savings,Airport,Branch
+2024-05-23,CUST100062,Savings,City Plaza,Website
+2023-02-04,CUST100063,Current,West,Agent
+2023-07-25,CUST100064,Savings,West,Branch
+2023-03-22,CUST100065,Savings,Airport,Branch
+2024-07-15,CUST100066,Savings,West,App
+2024-01-23,CUST100067,Savings,Airport,Agent
+2023-01-02,CUST100068,Current,City Plaza,Branch
+2024-01-25,CUST100069,Savings,North,App
+2024-07-19,CUST100070,Current,Airport,Website
+2023-04-16,CUST100071,Current,South,Branch
+2024-04-21,CUST100072,Current,West,Branch
+2024-12-03,CUST100073,Current,Airport,App
+2024-02-06,CUST100074,Current,Airport,Website
+2024-12-30,CUST100075,Loan,City Plaza,Branch
+2024-07-09,CUST100076,Savings,West,App
+2023-06-11,CUST100077,Savings,North,App
+2023-07-21,CUST100078,Savings,City Plaza,App
+2023-09-27,CUST100079,Savings,North,App
+2023-09-28,CUST100080,Current,Uptown,App
+2024-03-31,CUST100081,Loan,City Plaza,App
+2024-04-06,CUST100082,Savings,West,App
+2024-12-27,CUST100083,Savings,Central,App
+2023-09-09,CUST100084,Savings,West,App
+2024-12-02,CUST100085,Current,West,Website
+2023-10-23,CUST100086,Current,North,Branch
+2024-12-25,CUST100087,Savings,North,Website
+2024-12-20,CUST100088,Loan,West,Website
+2023-12-04,CUST100089,Current,West,Branch
+2023-02-22,CUST100090,Savings,West,App
+2023-08-05,CUST100091,Current,North,App
+2023-07-07,CUST100092,Current,West,Branch
+2024-01-15,CUST100093,Savings,West,App
+2024-05-07,CUST100094,Savings,Uptown,Branch
+2023-02-10,CUST100095,Savings,East,Branch
+2023-06-06,CUST100096,Savings,Central,Website
+2023-01-15,CUST100097,Current,South,Branch
+2023-03-06,CUST100098,Loan,Central,Website
+2024-06-04,CUST100099,Savings,East,App
+2023-12-10,CUST100100,Savings,South,Website
+2023-05-09,CUST100101,Savings,City Plaza,App
+2024-10-09,CUST100102,Savings,West,Branch
+2024-04-16,CUST100103,Current,East,App
+2023-03-04,CUST100104,Savings,Uptown,Branch
+2023-05-19,CUST100105,Savings,City Plaza,App
+2024-05-13,CUST100106,Savings,West,Website
+2024-08-15,CUST100107,Current,North,Branch
+2024-01-27,CUST100108,Savings,Airport,App
+2024-11-05,CUST100109,Current,East,Website
+2024-02-23,CUST100110,Savings,North,Website
+2023-10-16,CUST100111,Current,East,App
+2024-01-14,CUST100112,Current,Uptown,Branch
+2024-05-04,CUST100113,Savings,East,App
+2023-08-19,CUST100114,Savings,North,Branch
+2023-02-10,CUST100115,Loan,Uptown,Website
+2023-01-28,CUST100116,Loan,South,Agent
+2023-05-15,CUST100117,Savings,Central,Website
+2023-07-20,CUST100118,Savings,West,Website
+2023-02-02,CUST100119,Loan,East,Branch
+2023-02-17,CUST100120,Current,West,Website
+2024-05-17,CUST100121,Savings,Airport,Website
+2024-02-11,CUST100122,Loan,North,Branch
+2024-07-27,CUST100123,Savings,West,Website
+2024-12-28,CUST100124,Current,North,Branch
+2023-04-09,CUST100125,Savings,West,App
+2024-11-14,CUST100126,Savings,Central,Website
+2024-12-26,CUST100127,Savings,Central,App
+2024-06-30,CUST100128,Current,Uptown,Branch
+2024-09-04,CUST100129,Savings,Central,App
+2024-04-06,CUST100130,Savings,Uptown,App
+2024-10-04,CUST100131,Savings,Central,Website
+2023-01-05,CUST100132,Savings,Central,App
+2023-08-06,CUST100133,Loan,Central,Branch
+2024-05-17,CUST100134,Savings,North,Website
+2024-02-02,CUST100135,Current,East,App
+2024-01-28,CUST100136,Loan,Uptown,App
+2023-07-26,CUST100137,Savings,West,App
+2023-01-15,CUST100138,Savings,Central,Website
+2024-07-07,CUST100139,Savings,North,App
+2024-04-05,CUST100140,Savings,North,App
+2024-11-21,CUST100141,Savings,North,Branch
+2024-07-28,CUST100142,Savings,Uptown,Branch
+2023-08-29,CUST100143,Current,East,Branch
+2024-07-17,CUST100144,Savings,Uptown,Branch
+2023-04-06,CUST100145,Savings,West,App
+2024-04-29,CUST100146,Current,East,Website
+2024-02-11,CUST100147,Savings,South,App
+2023-08-19,CUST100148,Current,City Plaza,Website
+2024-10-16,CUST100149,Current,North,Agent
+2023-06-20,CUST100150,Savings,Uptown,Website
+2024-06-24,CUST100151,Current,South,App
+2023-02-05,CUST100152,Savings,Airport,App
+2024-06-08,CUST100153,Savings,Uptown,App
+2023-06-09,CUST100154,Savings,Central,Branch
+2024-11-29,CUST100155,Savings,City Plaza,App
+2023-08-31,CUST100156,Current,Central,Website
+2023-03-27,CUST100157,Savings,East,Website
+2024-07-31,CUST100158,Savings,City Plaza,Branch
+2024-11-12,CUST100159,Savings,Uptown,App
+2024-07-10,CUST100160,Current,West,Website
+2024-07-27,CUST100161,Savings,South,Branch
+2024-10-07,CUST100162,Loan,West,App
+2023-01-28,CUST100163,Savings,Uptown,Website
+2024-09-11,CUST100164,Current,East,App
+2024-07-09,CUST100165,Loan,Central,Branch
+2023-12-06,CUST100166,Current,City Plaza,App
+2023-11-27,CUST100167,Loan,West,Website
+2024-10-01,CUST100168,Savings,Uptown,App
+2024-05-20,CUST100169,Current,West,Branch
+2023-12-14,CUST100170,Savings,Uptown,App
+2024-04-17,CUST100171,Savings,Central,App
+2023-08-19,CUST100172,Savings,City Plaza,App
+2023-07-09,CUST100173,Current,South,Website
+2023-08-13,CUST100174,Savings,Central,Branch
+2024-01-20,CUST100175,Current,West,Website
+2024-01-12,CUST100176,Loan,South,Branch
+2023-10-10,CUST100177,Current,Uptown,App
+2024-09-24,CUST100178,Current,South,Branch
+2024-09-19,CUST100179,Current,Uptown,App
+2023-09-16,CUST100180,Loan,Central,App
+2023-12-25,CUST100181,Current,West,App
+2024-12-10,CUST100182,Current,East,Branch
+2024-03-31,CUST100183,Loan,West,App
+2024-02-15,CUST100184,Loan,Uptown,Branch
+2024-10-10,CUST100185,Savings,North,Website
+2023-11-14,CUST100186,Savings,City Plaza,Website
+2024-11-07,CUST100187,Savings,Airport,Branch
+2023-08-13,CUST100188,Savings,East,App
+2023-08-22,CUST100189,Current,South,App
+2024-11-14,CUST100190,Current,East,Branch
+2024-10-25,CUST100191,Current,City Plaza,App
+2024-01-09,CUST100192,Savings,South,Website
+2024-11-02,CUST100193,Loan,City Plaza,App
+2024-08-30,CUST100194,Current,South,Branch
+2024-04-16,CUST100195,Current,East,Website
+2023-08-21,CUST100196,Loan,South,App
+2024-11-22,CUST100197,Current,South,Website
+2023-04-23,CUST100198,Savings,North,App
+2024-05-11,CUST100199,Current,West,App
+2024-03-17,CUST100200,Savings,West,Branch
+2024-07-17,CUST100201,Savings,Airport,Branch
+2023-09-25,CUST100202,Current,Airport,Agent
+2024-05-24,CUST100203,Savings,Uptown,Branch
+2024-01-21,CUST100204,Current,Uptown,Agent
+2024-01-22,CUST100205,Savings,Uptown,App
+2023-04-23,CUST100206,Loan,North,Branch
+2024-09-04,CUST100207,Savings,Airport,Branch
+2024-09-16,CUST100208,Loan,City Plaza,Branch
+2023-03-22,CUST100209,Current,Uptown,Website
+2024-11-29,CUST100210,Savings,Uptown,App
+2023-04-23,CUST100211,Current,East,App
+2023-01-02,CUST100212,Loan,Central,Branch
+2024-10-03,CUST100213,Savings,City Plaza,Branch
+2023-08-08,CUST100214,Savings,Uptown,App
+2024-07-19,CUST100215,Savings,Uptown,Branch
+2023-08-13,CUST100216,Savings,Uptown,Website
+2024-01-20,CUST100217,Current,Central,App
+2024-02-07,CUST100218,Current,Central,App
+2024-09-29,CUST100219,Savings,North,App
+2023-05-10,CUST100220,Savings,City Plaza,App
+2023-02-22,CUST100221,Current,North,Agent
+2024-11-14,CUST100222,Savings,South,App
+2024-12-30,CUST100223,Savings,Central,Branch
+2024-11-02,CUST100224,Loan,East,App
+2024-12-10,CUST100225,Current,Airport,Branch
+2024-02-20,CUST100226,Current,East,Branch
+2023-09-04,CUST100227,Current,Airport,Agent
+2024-03-14,CUST100228,Savings,Central,Website
+2023-07-22,CUST100229,Current,Central,Agent
+2023-07-03,CUST100230,Savings,Central,App
+2023-05-03,CUST100231,Savings,North,App
+2024-02-05,CUST100232,Savings,City Plaza,Branch
+2023-10-21,CUST100233,Savings,Airport,Branch
+2023-10-07,CUST100234,Current,City Plaza,Website
+2024-09-01,CUST100235,Savings,North,App
+2023-07-17,CUST100236,Savings,North,Website
+2024-05-25,CUST100237,Savings,West,Website
+2023-05-24,CUST100238,Savings,East,Branch
+2024-08-31,CUST100239,Current,East,App
+2023-07-20,CUST100240,Savings,South,App
+2023-05-04,CUST100241,Current,Uptown,Branch
+2023-07-06,CUST100242,Savings,North,Website
+2023-11-22,CUST100243,Current,Airport,App
+2024-04-08,CUST100244,Current,West,Branch
+2023-12-15,CUST100245,Savings,West,App
+2024-10-21,CUST100246,Current,Uptown,Agent
+2024-02-07,CUST100247,Savings,City Plaza,Branch
+2023-12-12,CUST100248,Savings,Uptown,Website
+2024-05-25,CUST100249,Loan,Uptown,Branch
+2023-05-27,CUST100250,Savings,Uptown,Website
+2023-05-28,CUST100251,Savings,East,Website
+2024-12-11,CUST100252,Current,North,Branch
+2024-05-03,CUST100253,Savings,South,Branch
+2024-10-01,CUST100254,Current,North,Website
+2024-07-04,CUST100255,Savings,City Plaza,App
+2023-12-04,CUST100256,Loan,Central,Website
+2024-10-02,CUST100257,Current,Uptown,Branch
+2024-04-17,CUST100258,Current,North,Website
+2023-05-31,CUST100259,Loan,City Plaza,Website
+2024-02-19,CUST100260,Savings,Central,Website
+2023-10-25,CUST100261,Loan,Central,Branch
+2024-09-02,CUST100262,Savings,Uptown,App
+2023-09-20,CUST100263,Savings,South,App
+2023-05-24,CUST100264,Savings,Airport,App
+2023-12-12,CUST100265,Savings,East,App
+2024-09-15,CUST100266,Savings,North,Branch
+2024-07-25,CUST100267,Current,Central,Website
+2023-01-02,CUST100268,Current,North,App
+2023-10-31,CUST100269,Loan,Airport,Branch
+2023-09-11,CUST100270,Savings,East,App
+2024-10-13,CUST100271,Current,Airport,App
+2024-03-28,CUST100272,Savings,East,Branch
+2023-02-06,CUST100273,Savings,West,Agent
+2023-06-09,CUST100274,Savings,East,Website
+2023-01-09,CUST100275,Savings,Uptown,App
+2023-08-21,CUST100276,Current,South,Branch
+2023-04-09,CUST100277,Current,Airport,Website
+2024-10-20,CUST100278,Savings,Central,App
+2023-07-27,CUST100279,Savings,Uptown,Branch
+2023-05-11,CUST100280,Savings,West,App
+2024-02-08,CUST100281,Savings,South,App
+2023-06-01,CUST100282,Loan,North,App
+2023-02-23,CUST100283,Savings,Uptown,App
+2023-04-30,CUST100284,Savings,Airport,App
+2024-11-03,CUST100285,Savings,City Plaza,Website
+2024-09-19,CUST100286,Current,City Plaza,App
+2024-08-09,CUST100287,Loan,Central,Website
+2024-09-16,CUST100288,Current,East,Website
+2024-02-24,CUST100289,Current,Central,App
+2024-02-26,CUST100290,Savings,City Plaza,App
+2023-04-14,CUST100291,Savings,North,App
+2023-09-11,CUST100292,Loan,West,App
+2023-08-15,CUST100293,Current,West,Website
+2023-04-22,CUST100294,Current,Airport,App
+2024-05-24,CUST100295,Current,West,Agent
+2024-04-17,CUST100296,Current,Airport,Branch
+2023-04-09,CUST100297,Current,Uptown,Branch
+2023-06-02,CUST100298,Loan,Airport,App
+2023-12-04,CUST100299,Loan,Uptown,Branch
+2024-12-06,CUST100300,Current,Airport,Branch
+2023-06-12,CUST100301,Current,City Plaza,Branch
+2024-12-20,CUST100302,Savings,City Plaza,Branch
+2024-11-11,CUST100303,Current,East,Branch
+2023-06-10,CUST100304,Savings,Uptown,Agent
+2024-08-02,CUST100305,Current,South,Branch
+2024-02-02,CUST100306,Loan,Uptown,Website
+2023-10-04,CUST100307,Current,Airport,Website
+2024-05-18,CUST100308,Savings,Airport,Website
+2024-01-27,CUST100309,Savings,South,Branch
+2023-05-15,CUST100310,Savings,Central,Website
+2023-07-14,CUST100311,Current,Airport,App
+2024-02-05,CUST100312,Savings,East,App
+2024-10-01,CUST100313,Savings,West,App
+2023-02-02,CUST100314,Savings,West,Website
+2024-11-18,CUST100315,Current,North,Branch
+2024-04-04,CUST100316,Current,North,Website
+2024-04-14,CUST100317,Savings,West,App
+2024-01-10,CUST100318,Savings,West,Website
+2023-01-22,CUST100319,Savings,City Plaza,Agent
+2024-10-31,CUST100320,Current,East,Branch
+2023-02-07,CUST100321,Current,South,Agent
+2023-08-18,CUST100322,Savings,North,Branch
+2023-12-31,CUST100323,Current,City Plaza,Branch
+2024-07-16,CUST100324,Savings,City Plaza,Branch
+2024-03-13,CUST100325,Loan,South,Branch
+2023-10-10,CUST100326,Savings,City Plaza,App
+2023-01-27,CUST100327,Savings,Uptown,Branch
+2023-08-14,CUST100328,Savings,East,Branch
+2023-10-04,CUST100329,Current,West,Website
+2024-08-31,CUST100330,Current,Airport,Website
+2023-10-11,CUST100331,Savings,South,Website
+2024-04-25,CUST100332,Current,West,Website
+2024-03-28,CUST100333,Current,West,Website
+2024-10-20,CUST100334,Savings,Central,Branch
+2024-05-30,CUST100335,Savings,Uptown,App
+2024-06-30,CUST100336,Loan,South,Website
+2023-07-11,CUST100337,Savings,City Plaza,Branch
+2023-02-18,CUST100338,Savings,Airport,App
+2024-05-26,CUST100339,Loan,South,Branch
+2023-01-17,CUST100340,Savings,City Plaza,Branch
+2023-06-21,CUST100341,Savings,West,App
+2023-08-08,CUST100342,Savings,Airport,App
+2023-06-07,CUST100343,Loan,City Plaza,App
+2024-04-21,CUST100344,Savings,East,App
+2023-02-15,CUST100345,Savings,City Plaza,Branch
+2024-01-08,CUST100346,Savings,Central,Branch
+2024-06-01,CUST100347,Savings,Uptown,Website
+2023-04-09,CUST100348,Savings,West,App
+2023-02-06,CUST100349,Savings,City Plaza,Branch
+2023-10-07,CUST100350,Current,Uptown,Website
+2023-12-15,CUST100351,Savings,North,Branch
+2024-05-11,CUST100352,Savings,North,App
+2023-10-29,CUST100353,Savings,Uptown,Branch
+2023-06-30,CUST100354,Savings,Uptown,Website
+2024-08-29,CUST100355,Savings,Central,App
+2023-04-09,CUST100356,Current,East,Branch
+2024-11-30,CUST100357,Savings,West,Website
+2023-04-26,CUST100358,Savings,South,App
+2023-07-10,CUST100359,Savings,Central,Branch
+2023-09-10,CUST100360,Loan,East,Branch
+2023-06-10,CUST100361,Current,Uptown,Branch
+2023-09-13,CUST100362,Current,South,Branch
+2023-11-19,CUST100363,Savings,Uptown,App
+2023-05-08,CUST100364,Loan,Uptown,Website
+2023-01-18,CUST100365,Savings,North,App
+2024-07-19,CUST100366,Savings,North,Branch
+2024-07-23,CUST100367,Savings,South,Branch
+2023-11-19,CUST100368,Savings,Central,Branch
+2024-11-16,CUST100369,Loan,North,App
+2024-09-17,CUST100370,Current,West,Website
+2023-10-15,CUST100371,Savings,Uptown,Branch
+2024-10-24,CUST100372,Current,Airport,Website
+2024-09-30,CUST100373,Loan,City Plaza,Website
+2023-06-04,CUST100374,Loan,South,App
+2024-05-04,CUST100375,Current,South,Website
+2024-01-21,CUST100376,Loan,North,App
+2023-04-14,CUST100377,Loan,Central,App
+2024-01-28,CUST100378,Current,Uptown,App
+2023-09-03,CUST100379,Savings,West,App
+2023-06-25,CUST100380,Savings,Central,Branch
+2023-02-08,CUST100381,Current,East,Branch
+2024-04-21,CUST100382,Savings,East,Branch
+2024-11-12,CUST100383,Current,Airport,App
+2024-06-21,CUST100384,Savings,North,Branch
+2024-02-12,CUST100385,Savings,North,Website
+2024-06-08,CUST100386,Savings,North,Website
+2024-05-20,CUST100387,Savings,Airport,App
+2023-02-05,CUST100388,Loan,East,Branch
+2024-11-15,CUST100389,Current,Central,Website
+2023-01-20,CUST100390,Current,Airport,Website
+2023-11-17,CUST100391,Current,Airport,Website
+2024-05-26,CUST100392,Savings,Central,Branch
+2024-02-04,CUST100393,Savings,North,App
+2024-10-15,CUST100394,Current,West,Branch
+2024-04-15,CUST100395,Savings,Central,Branch
+2023-05-23,CUST100396,Savings,East,Website
+2023-04-02,CUST100397,Savings,South,Website
+2023-12-20,CUST100398,Savings,Uptown,App
+2024-12-27,CUST100399,Loan,South,Website
+2023-02-20,CUST100400,Loan,City Plaza,App
+2024-10-26,CUST100401,Savings,City Plaza,App
+2024-11-28,CUST100402,Current,Airport,Branch
+2024-07-28,CUST100403,Current,Uptown,Website
+2023-07-09,CUST100404,Savings,South,Branch
+2023-05-05,CUST100405,Loan,West,Website
+2023-05-30,CUST100406,Loan,North,Website
+2023-11-10,CUST100407,Savings,East,Branch
+2024-07-23,CUST100408,Savings,City Plaza,App
+2023-12-08,CUST100409,Savings,West,Website
+2023-11-01,CUST100410,Savings,East,App
+2024-11-22,CUST100411,Savings,East,Website
+2024-11-12,CUST100412,Loan,North,Website
+2023-02-23,CUST100413,Savings,Uptown,App
+2024-03-19,CUST100414,Savings,Airport,App
+2024-09-04,CUST100415,Loan,South,Website
+2023-09-21,CUST100416,Current,North,App
+2023-02-22,CUST100417,Savings,West,Branch
+2024-07-25,CUST100418,Savings,Airport,Branch
+2024-09-11,CUST100419,Savings,West,App
+2023-01-05,CUST100420,Current,Airport,Website
+2023-04-13,CUST100421,Savings,Uptown,Website
+2023-07-15,CUST100422,Savings,City Plaza,App
+2023-12-16,CUST100423,Loan,West,Branch
+2023-02-16,CUST100424,Savings,North,Branch
+2024-10-17,CUST100425,Loan,Airport,Website
+2023-09-26,CUST100426,Loan,Airport,Branch
+2024-01-05,CUST100427,Savings,East,Branch
+2024-09-27,CUST100428,Loan,East,Branch
+2023-04-16,CUST100429,Savings,Central,App
+2024-10-31,CUST100430,Loan,West,Website
+2024-10-20,CUST100431,Current,East,Branch
+2024-10-18,CUST100432,Current,Central,App
+2023-04-30,CUST100433,Savings,City Plaza,App
+2024-08-26,CUST100434,Loan,City Plaza,Agent
+2023-02-27,CUST100435,Current,East,Branch
+2023-12-12,CUST100436,Savings,West,App
+2024-04-18,CUST100437,Loan,Airport,App
+2023-04-27,CUST100438,Savings,South,Website
+2023-05-07,CUST100439,Savings,Uptown,App
+2024-01-28,CUST100440,Savings,West,Branch
+2024-10-02,CUST100441,Savings,Uptown,App
+2023-02-27,CUST100442,Savings,North,Website
+2024-09-25,CUST100443,Loan,City Plaza,Branch
+2024-05-27,CUST100444,Savings,East,Website
+2023-04-06,CUST100445,Current,East,Branch
+2024-09-29,CUST100446,Savings,Uptown,App
+2023-04-28,CUST100447,Loan,Airport,App
+2024-07-13,CUST100448,Loan,Uptown,Website
+2024-08-23,CUST100449,Savings,North,App
+2024-05-02,CUST100450,Loan,Airport,Website
+2023-08-25,CUST100451,Savings,North,Website
+2023-09-29,CUST100452,Current,South,App
+2023-07-08,CUST100453,Savings,City Plaza,Website
+2024-12-04,CUST100454,Loan,East,Website
+2024-03-22,CUST100455,Savings,East,Branch
+2024-08-03,CUST100456,Current,South,App
+2023-09-04,CUST100457,Current,Central,Website
+2023-03-17,CUST100458,Savings,City Plaza,Branch
+2023-06-03,CUST100459,Savings,Airport,Website
+2024-10-17,CUST100460,Savings,South,Agent
+2024-03-10,CUST100461,Savings,Airport,Branch
+2023-03-27,CUST100462,Current,Uptown,App
+2024-11-27,CUST100463,Savings,West,App
+2023-10-12,CUST100464,Savings,East,App
+2023-08-08,CUST100465,Savings,Airport,Branch
+2023-03-10,CUST100466,Current,North,Branch
+2023-02-16,CUST100467,Savings,Airport,App
+2023-04-04,CUST100468,Savings,West,Website
+2024-03-28,CUST100469,Savings,City Plaza,Website
+2023-07-23,CUST100470,Savings,East,App
+2023-08-06,CUST100471,Current,Uptown,Branch
+2024-04-18,CUST100472,Savings,South,App
+2024-03-07,CUST100473,Savings,Uptown,Branch
+2023-12-07,CUST100474,Current,West,Website
+2024-07-04,CUST100475,Current,East,Website
+2024-09-03,CUST100476,Savings,Airport,Website
+2023-10-16,CUST100477,Current,City Plaza,Website
+2023-09-11,CUST100478,Loan,Central,Branch
+2023-12-23,CUST100479,Savings,City Plaza,Website
+2023-01-23,CUST100480,Current,Central,Branch
+2024-06-05,CUST100481,Current,North,Website
+2023-04-10,CUST100482,Savings,City Plaza,Branch
+2023-06-29,CUST100483,Savings,East,Website
+2023-08-11,CUST100484,Savings,Central,Website
+2024-10-20,CUST100485,Loan,South,Branch
+2024-03-17,CUST100486,Loan,East,App
+2024-08-30,CUST100487,Current,South,Website
+2023-11-21,CUST100488,Savings,City Plaza,App
+2024-05-30,CUST100489,Current,South,Branch
+2023-01-16,CUST100490,Current,Central,Branch
+2023-12-02,CUST100491,Savings,East,Branch
+2023-09-15,CUST100492,Savings,Airport,Website
+2024-05-11,CUST100493,Current,West,App
+2023-06-09,CUST100494,Savings,Central,Branch
+2024-04-19,CUST100495,Current,Central,App
+2024-10-25,CUST100496,Savings,Airport,App
+2024-11-20,CUST100497,Savings,East,Branch
+2024-11-05,CUST100498,Savings,East,App
+2024-01-15,CUST100499,Savings,Uptown,Branch
+2024-06-28,CUST100500,Loan,City Plaza,Branch
+2024-11-21,CUST100501,Savings,South,Website
+2024-03-02,CUST100502,Loan,City Plaza,Branch
+2024-09-04,CUST100503,Savings,Airport,App
+2023-09-25,CUST100504,Current,City Plaza,App
+2024-07-30,CUST100505,Savings,Airport,App
+2024-02-21,CUST100506,Current,East,App
+2023-06-17,CUST100507,Current,South,App
+2023-02-12,CUST100508,Savings,City Plaza,Website
+2024-07-09,CUST100509,Savings,Central,App
+2023-10-12,CUST100510,Loan,North,App
+2024-02-01,CUST100511,Loan,Uptown,Website
+2023-01-12,CUST100512,Savings,West,App
+2024-08-29,CUST100513,Current,Central,Branch
+2023-10-29,CUST100514,Loan,East,Branch
+2023-09-10,CUST100515,Loan,West,Branch
+2024-05-13,CUST100516,Loan,North,Website
+2023-02-04,CUST100517,Current,North,Website
+2024-12-27,CUST100518,Savings,South,Website
+2023-03-31,CUST100519,Savings,West,App
+2024-08-27,CUST100520,Savings,South,App
+2024-08-24,CUST100521,Current,Central,Branch
+2024-02-22,CUST100522,Current,Airport,App
+2023-04-25,CUST100523,Savings,Airport,App
+2024-09-08,CUST100524,Loan,Airport,Agent
+2023-07-15,CUST100525,Current,West,Branch
+2024-05-15,CUST100526,Current,Airport,App
+2024-09-17,CUST100527,Savings,Central,App
+2024-05-07,CUST100528,Savings,South,App
+2023-03-16,CUST100529,Savings,West,App
+2024-02-17,CUST100530,Savings,South,Website
+2024-01-11,CUST100531,Savings,West,Branch
+2024-02-24,CUST100532,Savings,South,Website
+2024-12-29,CUST100533,Savings,North,App
+2023-10-04,CUST100534,Savings,South,Website
+2024-11-06,CUST100535,Savings,Airport,Website
+2024-01-29,CUST100536,Current,North,Branch
+2024-04-01,CUST100537,Savings,South,Branch
+2023-07-11,CUST100538,Loan,West,Agent
+2024-11-19,CUST100539,Loan,West,App
+2023-04-09,CUST100540,Savings,Uptown,Website
+2024-07-01,CUST100541,Savings,West,Branch
+2023-04-06,CUST100542,Savings,East,App
+2024-10-25,CUST100543,Current,Central,Website
+2024-10-24,CUST100544,Current,West,Website
+2023-07-09,CUST100545,Savings,North,Branch
+2023-02-06,CUST100546,Current,Uptown,Website
+2024-01-04,CUST100547,Savings,West,App
+2024-11-25,CUST100548,Savings,East,Branch
+2024-06-08,CUST100549,Current,Airport,App
+2023-10-06,CUST100550,Savings,North,App
+2023-08-05,CUST100551,Current,East,Website
+2023-09-30,CUST100552,Savings,Airport,App
+2023-03-03,CUST100553,Loan,City Plaza,Branch
+2024-08-18,CUST100554,Savings,City Plaza,Branch
+2024-12-29,CUST100555,Savings,North,App
+2023-12-08,CUST100556,Current,South,Branch
+2024-02-01,CUST100557,Savings,Central,Website
+2024-11-29,CUST100558,Loan,Uptown,App
+2023-01-19,CUST100559,Current,Central,Website
+2023-06-26,CUST100560,Current,East,Agent
+2024-09-03,CUST100561,Current,Airport,App
+2024-01-31,CUST100562,Loan,Central,Website
+2024-03-20,CUST100563,Loan,Airport,Website
+2023-08-21,CUST100564,Current,Airport,App
+2023-03-17,CUST100565,Current,East,Branch
+2023-09-22,CUST100566,Savings,East,App
+2024-03-30,CUST100567,Savings,East,App
+2024-12-18,CUST100568,Current,Central,Website
+2024-01-19,CUST100569,Savings,City Plaza,App
+2024-07-17,CUST100570,Savings,East,Website
+2024-05-20,CUST100571,Savings,Uptown,App
+2024-01-02,CUST100572,Savings,Central,Branch
+2023-05-24,CUST100573,Current,East,Agent
+2023-03-10,CUST100574,Loan,West,App
+2023-04-09,CUST100575,Savings,Airport,App
+2024-01-31,CUST100576,Savings,Uptown,App
+2023-01-25,CUST100577,Loan,East,Branch
+2024-04-13,CUST100578,Savings,North,App
+2024-04-28,CUST100579,Current,Airport,App
+2024-07-18,CUST100580,Savings,Airport,App
+2023-05-31,CUST100581,Savings,East,Agent
+2023-05-24,CUST100582,Loan,City Plaza,App
+2024-07-22,CUST100583,Savings,South,Branch
+2023-02-08,CUST100584,Current,City Plaza,App
+2023-04-19,CUST100585,Current,East,Website
+2024-11-23,CUST100586,Savings,Airport,Branch
+2023-02-11,CUST100587,Current,Uptown,Branch
+2023-07-05,CUST100588,Loan,North,Branch
+2024-02-02,CUST100589,Savings,Uptown,Branch
+2023-08-11,CUST100590,Loan,Uptown,Website
+2024-09-25,CUST100591,Current,Airport,Website
+2023-05-13,CUST100592,Current,City Plaza,App
+2023-06-12,CUST100593,Current,North,App
+2023-08-03,CUST100594,Savings,Central,App
+2023-08-23,CUST100595,Loan,West,Agent
+2024-10-19,CUST100596,Loan,Airport,Agent
+2024-08-10,CUST100597,Current,East,App
+2023-01-09,CUST100598,Current,Central,Website
+2023-03-15,CUST100599,Current,West,Website
+2024-05-06,CUST100600,Savings,East,Branch
+2023-09-10,CUST100601,Current,Uptown,Branch
+2023-08-18,CUST100602,Current,South,App
+2024-06-02,CUST100603,Current,East,Website
+2023-06-23,CUST100604,Current,North,Agent
+2024-10-14,CUST100605,Savings,North,Website
+2023-06-17,CUST100606,Savings,South,Website
+2023-06-19,CUST100607,Savings,Central,App
+2024-01-28,CUST100608,Savings,West,Website
+2024-09-25,CUST100609,Current,East,Website
+2023-07-13,CUST100610,Current,North,App
+2024-05-31,CUST100611,Current,Central,App
+2023-01-29,CUST100612,Savings,South,Website
+2023-06-14,CUST100613,Current,City Plaza,Branch
+2024-02-26,CUST100614,Savings,Airport,Website
+2023-12-05,CUST100615,Savings,City Plaza,Branch
+2024-10-09,CUST100616,Current,City Plaza,App
+2024-05-10,CUST100617,Loan,North,Website
+2023-12-31,CUST100618,Savings,Uptown,Branch
+2023-12-08,CUST100619,Savings,Uptown,Branch
+2024-05-14,CUST100620,Savings,South,App
+2024-10-18,CUST100621,Savings,East,Website
+2024-05-25,CUST100622,Current,Uptown,Branch
+2023-11-23,CUST100623,Savings,City Plaza,Website
+2023-08-05,CUST100624,Savings,Uptown,Branch
+2023-10-28,CUST100625,Savings,City Plaza,Agent
+2023-05-12,CUST100626,Savings,West,Agent
+2023-03-11,CUST100627,Savings,North,App
+2023-09-09,CUST100628,Savings,North,App
+2024-02-19,CUST100629,Savings,East,App
+2024-03-20,CUST100630,Savings,Uptown,App
+2023-07-01,CUST100631,Current,Uptown,Branch
+2023-06-16,CUST100632,Savings,Airport,Branch
+2023-04-01,CUST100633,Loan,Central,Branch
+2024-12-14,CUST100634,Savings,West,App
+2024-06-14,CUST100635,Current,North,Branch
+2023-02-08,CUST100636,Current,West,App
+2023-05-06,CUST100637,Current,North,Agent
+2024-03-26,CUST100638,Current,West,App
+2023-06-22,CUST100639,Savings,South,App
+2024-10-14,CUST100640,Savings,City Plaza,App
+2023-08-08,CUST100641,Savings,North,Website
+2024-09-29,CUST100642,Current,West,Website
+2023-02-27,CUST100643,Savings,Uptown,Website
+2024-10-21,CUST100644,Savings,Central,Agent
+2024-04-20,CUST100645,Current,South,Branch
+2024-03-31,CUST100646,Current,South,Website
+2023-12-27,CUST100647,Current,Central,Website
+2023-01-01,CUST100648,Current,West,Branch
+2024-01-22,CUST100649,Loan,Uptown,Agent
+2023-12-14,CUST100650,Savings,East,Branch
+2023-07-09,CUST100651,Savings,Central,App
+2024-05-19,CUST100652,Savings,West,Branch
+2023-07-10,CUST100653,Savings,Central,App
+2024-05-22,CUST100654,Current,Central,Website
+2024-01-04,CUST100655,Savings,North,App
+2024-02-13,CUST100656,Current,West,App
+2023-04-27,CUST100657,Savings,East,Branch
+2023-05-14,CUST100658,Current,City Plaza,Website
+2023-02-27,CUST100659,Current,North,Branch
+2024-07-09,CUST100660,Savings,Central,App
+2024-11-15,CUST100661,Savings,City Plaza,Website
+2024-11-02,CUST100662,Savings,Airport,Website
+2023-06-22,CUST100663,Savings,City Plaza,App
+2023-05-29,CUST100664,Savings,Central,Website
+2023-03-21,CUST100665,Savings,Central,Website
+2023-08-01,CUST100666,Savings,Uptown,Website
+2023-07-22,CUST100667,Current,West,App
+2023-08-17,CUST100668,Current,West,Branch
+2024-11-06,CUST100669,Current,North,Branch
+2023-08-15,CUST100670,Savings,East,Branch
+2024-10-20,CUST100671,Current,North,App
+2024-06-15,CUST100672,Savings,South,Branch
+2024-03-16,CUST100673,Savings,Central,App
+2024-02-06,CUST100674,Loan,City Plaza,App
+2023-02-16,CUST100675,Savings,Airport,Branch
+2023-08-21,CUST100676,Current,Central,Website
+2023-11-01,CUST100677,Current,Central,App
+2024-06-09,CUST100678,Savings,North,Branch
+2023-05-23,CUST100679,Savings,Airport,Website
+2024-02-19,CUST100680,Savings,Airport,Branch
+2024-05-27,CUST100681,Loan,Airport,Website
+2024-01-08,CUST100682,Savings,North,Website
+2024-07-19,CUST100683,Savings,Central,App
+2023-09-16,CUST100684,Savings,North,Website
+2024-10-17,CUST100685,Current,West,App
+2024-04-15,CUST100686,Savings,West,App
+2023-01-12,CUST100687,Savings,North,Branch
+2023-11-26,CUST100688,Current,Airport,Branch
+2023-12-24,CUST100689,Loan,Uptown,Website
+2024-02-12,CUST100690,Savings,Central,App
+2024-10-29,CUST100691,Savings,North,App
+2024-01-08,CUST100692,Savings,North,App
+2023-01-08,CUST100693,Current,North,App
+2023-05-02,CUST100694,Savings,Uptown,Branch
+2023-12-14,CUST100695,Savings,Uptown,App
+2024-11-06,CUST100696,Current,South,Website
+2023-03-31,CUST100697,Current,West,Branch
+2024-10-09,CUST100698,Savings,City Plaza,Branch
+2024-11-28,CUST100699,Loan,Airport,Branch
+2023-11-12,CUST100700,Current,East,App
+2023-06-27,CUST100701,Savings,Uptown,Website
+2024-06-23,CUST100702,Savings,City Plaza,Branch
+2023-02-10,CUST100703,Loan,Uptown,Branch
+2024-12-04,CUST100704,Savings,Airport,Branch
+2024-05-16,CUST100705,Savings,East,Website
+2023-05-25,CUST100706,Savings,South,App
+2023-07-20,CUST100707,Current,North,App
+2024-12-24,CUST100708,Savings,South,Website
+2024-04-05,CUST100709,Savings,Uptown,App
+2024-07-11,CUST100710,Savings,South,Website
+2024-06-30,CUST100711,Savings,City Plaza,Website
+2023-09-10,CUST100712,Current,Central,Branch
+2024-01-25,CUST100713,Current,Uptown,Branch
+2024-08-16,CUST100714,Savings,Uptown,Branch
+2023-09-13,CUST100715,Savings,City Plaza,Branch
+2024-12-09,CUST100716,Current,West,Agent
+2024-03-25,CUST100717,Savings,East,App
+2023-01-10,CUST100718,Savings,North,Branch
+2023-08-30,CUST100719,Loan,City Plaza,Website
+2023-09-08,CUST100720,Current,East,App
+2023-01-05,CUST100721,Savings,Airport,Branch
+2023-04-29,CUST100722,Savings,East,App
+2024-01-09,CUST100723,Savings,Airport,App
+2023-03-06,CUST100724,Savings,City Plaza,Website
+2023-05-26,CUST100725,Savings,Uptown,Branch
+2023-08-12,CUST100726,Savings,Uptown,Branch
+2023-08-27,CUST100727,Savings,West,App
+2023-06-26,CUST100728,Loan,City Plaza,Branch
+2023-10-09,CUST100729,Current,Airport,App
+2023-03-04,CUST100730,Savings,East,App
+2023-08-05,CUST100731,Savings,East,App
+2024-11-19,CUST100732,Current,Airport,Website
+2024-04-05,CUST100733,Savings,South,App
+2024-09-01,CUST100734,Savings,West,Branch
+2023-04-15,CUST100735,Loan,Central,App
+2023-04-09,CUST100736,Savings,Uptown,Website
+2024-05-25,CUST100737,Current,North,Website
+2024-01-20,CUST100738,Loan,East,Branch
+2024-02-09,CUST100739,Savings,North,Agent
+2024-06-01,CUST100740,Savings,Central,App
+2024-04-20,CUST100741,Savings,City Plaza,Branch
+2024-12-09,CUST100742,Current,North,Branch
+2024-10-06,CUST100743,Loan,Central,Branch
+2024-03-12,CUST100744,Current,Uptown,Website
+2023-01-23,CUST100745,Savings,Airport,Branch
+2024-07-18,CUST100746,Current,South,Branch
+2024-11-07,CUST100747,Loan,Uptown,Website
+2024-12-14,CUST100748,Current,East,Branch
+2024-04-02,CUST100749,Loan,Central,Branch
+2023-03-24,CUST100750,Current,North,Branch
+2023-05-25,CUST100751,Current,East,Branch
+2023-03-26,CUST100752,Current,South,Branch
+2023-03-19,CUST100753,Savings,Airport,App
+2024-04-01,CUST100754,Savings,City Plaza,Branch
+2023-01-01,CUST100755,Current,East,Branch
+2023-02-20,CUST100756,Savings,City Plaza,Website
+2024-11-15,CUST100757,Loan,Central,App
+2024-12-17,CUST100758,Loan,South,App
+2024-03-21,CUST100759,Current,North,App
+2024-03-24,CUST100760,Savings,South,Branch
+2024-05-02,CUST100761,Savings,South,App
+2023-02-03,CUST100762,Savings,West,App
+2023-12-14,CUST100763,Current,South,App
+2023-04-05,CUST100764,Current,South,Website
+2023-03-13,CUST100765,Loan,Uptown,Branch
+2024-07-04,CUST100766,Savings,East,Website
+2023-06-03,CUST100767,Loan,North,Branch
+2023-09-07,CUST100768,Loan,Uptown,Website
+2024-11-04,CUST100769,Savings,Uptown,App
+2024-03-13,CUST100770,Loan,East,Website
+2023-04-28,CUST100771,Savings,East,Branch
+2023-11-02,CUST100772,Savings,Central,App
+2023-09-25,CUST100773,Current,East,App
+2023-02-23,CUST100774,Savings,West,Website
+2023-08-24,CUST100775,Current,West,App
+2024-01-24,CUST100776,Current,Uptown,App
+2024-02-05,CUST100777,Current,City Plaza,App
+2024-09-15,CUST100778,Savings,Central,Branch
+2023-10-30,CUST100779,Savings,City Plaza,App
+2023-07-26,CUST100780,Current,City Plaza,Branch
+2023-08-17,CUST100781,Savings,Uptown,Agent
+2024-07-31,CUST100782,Savings,Airport,Website
+2023-03-16,CUST100783,Savings,Uptown,Agent
+2024-03-10,CUST100784,Current,North,Branch
+2023-04-13,CUST100785,Savings,North,Website
+2024-02-26,CUST100786,Current,East,Website
+2024-12-04,CUST100787,Current,East,App
+2023-11-02,CUST100788,Savings,Airport,App
+2023-04-08,CUST100789,Savings,East,Branch
+2023-12-01,CUST100790,Loan,North,Website
+2024-03-10,CUST100791,Current,City Plaza,App
+2024-03-22,CUST100792,Loan,Uptown,Branch
+2023-11-04,CUST100793,Current,South,Branch
+2023-09-06,CUST100794,Savings,West,Website
+2023-06-15,CUST100795,Savings,South,Website
+2024-04-25,CUST100796,Savings,South,Agent
+2023-12-01,CUST100797,Savings,North,App
+2024-06-25,CUST100798,Savings,South,Branch
+2023-04-16,CUST100799,Savings,Uptown,Branch
+2024-07-16,CUST100800,Savings,Airport,Branch
+2023-03-22,CUST100801,Current,Central,Branch
+2023-05-13,CUST100802,Current,East,App
+2023-05-18,CUST100803,Savings,Central,Branch
+2023-07-03,CUST100804,Current,City Plaza,App
+2024-02-05,CUST100805,Savings,Uptown,Website
+2023-11-26,CUST100806,Loan,Uptown,App
+2024-05-22,CUST100807,Savings,West,Website
+2023-03-10,CUST100808,Loan,Uptown,App
+2024-06-29,CUST100809,Current,East,Branch
+2023-02-22,CUST100810,Savings,Uptown,App
+2024-03-25,CUST100811,Savings,South,Branch
+2023-07-24,CUST100812,Savings,West,Branch
+2023-05-06,CUST100813,Savings,East,App
+2023-02-12,CUST100814,Savings,Airport,Branch
+2023-04-21,CUST100815,Current,Airport,Branch
+2024-10-24,CUST100816,Savings,Airport,App
+2023-07-02,CUST100817,Current,Airport,Agent
+2023-04-05,CUST100818,Loan,South,Website
+2024-01-09,CUST100819,Savings,Uptown,Website
+2024-06-03,CUST100820,Current,Central,Branch
+2023-12-26,CUST100821,Savings,East,Website
+2024-11-26,CUST100822,Current,South,Website
+2023-10-08,CUST100823,Savings,Airport,App
+2023-07-14,CUST100824,Loan,City Plaza,Agent
+2023-07-14,CUST100825,Current,Uptown,Branch
+2024-10-28,CUST100826,Savings,Central,Website
+2023-04-03,CUST100827,Savings,City Plaza,Website
+2024-11-02,CUST100828,Loan,West,Branch
+2023-03-02,CUST100829,Current,City Plaza,App
+2024-09-25,CUST100830,Savings,West,Agent
+2023-02-20,CUST100831,Savings,West,Branch
+2024-02-07,CUST100832,Current,Airport,App
+2023-01-05,CUST100833,Savings,West,Agent
+2024-04-10,CUST100834,Loan,North,App
+2024-08-26,CUST100835,Savings,East,Branch
+2024-11-12,CUST100836,Savings,East,App
+2024-06-17,CUST100837,Current,Airport,Branch
+2024-02-09,CUST100838,Savings,North,App
+2024-05-27,CUST100839,Savings,City Plaza,Branch
+2024-10-06,CUST100840,Savings,South,App
+2023-08-21,CUST100841,Savings,City Plaza,App
+2024-06-07,CUST100842,Current,Uptown,Website
+2023-12-12,CUST100843,Savings,South,App
+2023-02-15,CUST100844,Current,West,App
+2024-06-29,CUST100845,Current,Central,App
+2023-03-19,CUST100846,Current,South,Branch
+2024-12-30,CUST100847,Savings,Central,App
+2023-03-14,CUST100848,Savings,East,Branch
+2023-09-06,CUST100849,Loan,Central,Website
+2023-02-16,CUST100850,Current,East,Branch
+2023-05-01,CUST100851,Current,North,App
+2023-08-02,CUST100852,Savings,North,App
+2023-08-27,CUST100853,Savings,Airport,App
+2023-02-25,CUST100854,Current,Airport,Branch
+2023-12-16,CUST100855,Loan,West,App
+2023-04-17,CUST100856,Current,South,App
+2023-02-17,CUST100857,Current,West,Website
+2024-07-26,CUST100858,Current,East,App
+2023-12-03,CUST100859,Savings,West,App
+2023-01-26,CUST100860,Savings,Central,App
+2023-09-14,CUST100861,Savings,East,App
+2023-01-08,CUST100862,Savings,Airport,App
+2024-09-16,CUST100863,Loan,North,App
+2023-09-10,CUST100864,Savings,Airport,Branch
+2024-11-22,CUST100865,Savings,South,Branch
+2024-12-19,CUST100866,Savings,East,Branch
+2023-10-30,CUST100867,Savings,East,Branch
+2024-09-30,CUST100868,Savings,Central,App
+2023-02-25,CUST100869,Savings,South,App
+2024-12-26,CUST100870,Current,North,Branch
+2024-06-09,CUST100871,Savings,City Plaza,Website
+2024-04-18,CUST100872,Current,East,Branch
+2023-01-28,CUST100873,Savings,East,Website
+2023-03-19,CUST100874,Savings,Central,App
+2023-08-04,CUST100875,Savings,West,App
+2024-01-21,CUST100876,Current,Uptown,Branch
+2023-12-31,CUST100877,Current,North,App
+2024-10-27,CUST100878,Savings,Airport,App
+2024-06-09,CUST100879,Savings,South,Website
+2024-11-29,CUST100880,Current,East,App
+2023-11-08,CUST100881,Savings,East,Website
+2023-01-07,CUST100882,Savings,Airport,Branch
+2023-01-03,CUST100883,Current,North,Website
+2024-09-14,CUST100884,Current,Uptown,App
+2023-12-29,CUST100885,Savings,West,Website
+2024-05-22,CUST100886,Loan,East,Branch
+2023-10-01,CUST100887,Current,Uptown,App
+2024-05-20,CUST100888,Savings,North,App
+2023-01-15,CUST100889,Current,Airport,Website
+2023-07-11,CUST100890,Current,Central,Branch
+2024-09-22,CUST100891,Savings,West,Website
+2024-04-29,CUST100892,Savings,South,Branch
+2023-01-28,CUST100893,Savings,East,Website
+2024-12-14,CUST100894,Current,North,Website
+2023-02-08,CUST100895,Savings,Central,Website
+2023-09-30,CUST100896,Current,South,App
+2023-08-19,CUST100897,Current,City Plaza,App
+2023-03-27,CUST100898,Savings,North,Agent
+2024-04-18,CUST100899,Current,North,Branch
+2023-05-06,CUST100900,Savings,South,App
+2024-06-20,CUST100901,Current,Central,App
+2023-05-25,CUST100902,Current,City Plaza,Website
+2024-06-08,CUST100903,Savings,Uptown,Branch
+2023-07-31,CUST100904,Savings,Uptown,App
+2023-01-25,CUST100905,Savings,Airport,Website
+2024-08-02,CUST100906,Savings,Central,Branch
+2024-01-29,CUST100907,Savings,West,Website
+2023-03-08,CUST100908,Savings,East,Branch
+2023-08-21,CUST100909,Loan,South,App
+2023-04-19,CUST100910,Savings,Airport,Branch
+2023-05-26,CUST100911,Savings,City Plaza,Branch
+2023-04-21,CUST100912,Current,South,Website
+2023-08-16,CUST100913,Savings,South,App
+2023-04-21,CUST100914,Loan,Central,App
+2024-04-14,CUST100915,Current,East,Branch
+2023-02-03,CUST100916,Current,West,App
+2024-09-14,CUST100917,Savings,Uptown,App
+2024-01-04,CUST100918,Savings,North,App
+2024-08-17,CUST100919,Savings,North,Branch
+2024-07-07,CUST100920,Current,South,Website
+2024-02-29,CUST100921,Savings,Uptown,App
+2024-09-04,CUST100922,Savings,Uptown,App
+2024-06-01,CUST100923,Loan,East,Branch
+2024-11-22,CUST100924,Savings,City Plaza,Website
+2023-10-09,CUST100925,Savings,City Plaza,App
+2023-11-16,CUST100926,Savings,Airport,App
+2024-03-18,CUST100927,Loan,Central,Branch
+2023-11-11,CUST100928,Savings,East,Agent
+2024-01-12,CUST100929,Current,East,Branch
+2023-10-16,CUST100930,Current,Central,Website
+2024-03-12,CUST100931,Savings,Uptown,App
+2024-10-23,CUST100932,Current,City Plaza,Branch
+2023-10-04,CUST100933,Savings,City Plaza,Website
+2024-12-10,CUST100934,Savings,Uptown,Branch
+2024-08-04,CUST100935,Current,City Plaza,Website
+2024-05-17,CUST100936,Loan,South,Website
+2024-09-15,CUST100937,Current,East,Website
+2024-05-30,CUST100938,Savings,North,Branch
+2023-12-16,CUST100939,Savings,Central,Website
+2024-03-21,CUST100940,Savings,City Plaza,App
+2023-12-16,CUST100941,Savings,Airport,Website
+2024-08-29,CUST100942,Savings,City Plaza,App
+2024-10-25,CUST100943,Savings,City Plaza,Website
+2023-05-17,CUST100944,Savings,West,App
+2023-08-31,CUST100945,Savings,South,App
+2024-06-26,CUST100946,Savings,Central,Branch
+2023-02-09,CUST100947,Savings,West,Website
+2023-08-17,CUST100948,Current,West,App
+2024-07-01,CUST100949,Savings,Airport,App
+2023-08-11,CUST100950,Loan,East,Website
+2023-01-06,CUST100951,Loan,Airport,App
+2023-11-18,CUST100952,Savings,East,Branch
+2024-04-12,CUST100953,Current,East,App
+2023-03-16,CUST100954,Current,Central,App
+2023-01-04,CUST100955,Current,City Plaza,App
+2024-10-07,CUST100956,Savings,Central,Branch
+2023-04-28,CUST100957,Savings,South,Branch
+2024-08-28,CUST100958,Savings,East,Branch
+2024-05-18,CUST100959,Savings,West,Website
+2024-07-27,CUST100960,Current,City Plaza,Branch
+2024-03-16,CUST100961,Current,North,App
+2023-07-13,CUST100962,Savings,South,Website
+2024-12-15,CUST100963,Current,Central,Branch
+2024-01-27,CUST100964,Savings,Airport,App
+2023-01-26,CUST100965,Savings,South,Website
+2024-03-10,CUST100966,Current,South,Website
+2023-06-22,CUST100967,Savings,City Plaza,Website
+2023-10-27,CUST100968,Savings,South,Website
+2024-10-06,CUST100969,Savings,South,Website
+2023-11-22,CUST100970,Savings,North,App
+2024-02-14,CUST100971,Loan,Uptown,Website
+2023-04-28,CUST100972,Current,Airport,Branch
+2024-12-24,CUST100973,Loan,Airport,Website
+2023-08-13,CUST100974,Current,Airport,App
+2024-06-15,CUST100975,Savings,East,App
+2023-04-23,CUST100976,Savings,West,Branch
+2023-05-20,CUST100977,Current,Uptown,Website
+2024-07-12,CUST100978,Savings,Airport,Branch
+2023-01-01,CUST100979,Loan,South,Website
+2023-03-31,CUST100980,Current,South,Website
+2024-10-15,CUST100981,Savings,Airport,Branch
+2023-11-16,CUST100982,Loan,City Plaza,Website
+2024-07-03,CUST100983,Current,Airport,Website
+2023-05-19,CUST100984,Current,South,App
+2024-05-25,CUST100985,Savings,East,App
+2023-09-16,CUST100986,Savings,Central,Branch
+2024-11-03,CUST100987,Savings,Central,Branch
+2024-11-20,CUST100988,Savings,Uptown,Branch
+2023-01-10,CUST100989,Savings,Uptown,Website
+2023-09-18,CUST100990,Current,Airport,Branch
+2024-10-11,CUST100991,Savings,North,Website
+2023-06-21,CUST100992,Current,Airport,Branch
+2023-01-13,CUST100993,Loan,City Plaza,App
+2023-06-17,CUST100994,Loan,Airport,Website
+2024-10-03,CUST100995,Savings,Uptown,Website
+2024-08-18,CUST100996,Loan,Central,Branch
+2023-11-17,CUST100997,Savings,South,App
+2023-11-15,CUST100998,Savings,Airport,App
+2024-09-04,CUST100999,Current,South,Branch

@@ -1,0 +1,601 @@
+Complaint_ID,Customer_ID,Category,Sub_Category,Date_Reported,Date_Resolved,Status,Branch_Name,TAT_Days
+CMP300000,CUST100164,Service,Staff Behavior,2023-03-09,2023-03-14,Resolved,Central,5.0
+CMP300001,CUST100214,Loan Delay,Documentation Issue,2024-12-18,2025-01-09,Resolved,Central,22.0
+CMP300002,CUST100070,App Issue,Login Failure,2024-02-12,2024-03-01,Resolved,East,18.0
+CMP300003,CUST100715,Service,Account Error,2024-06-01,,Pending,Uptown,
+CMP300004,CUST100664,Loan Delay,Documentation Issue,2023-04-29,2023-05-27,Resolved,East,28.0
+CMP300005,CUST100578,App Issue,Crash,2023-01-31,2023-02-19,Resolved,East,19.0
+CMP300006,CUST100089,Loan Delay,Documentation Issue,2024-06-01,2024-06-14,Resolved,Central,13.0
+CMP300007,CUST100771,App Issue,Failed Payment,2024-04-27,2024-05-24,Resolved,West,27.0
+CMP300008,CUST100873,App Issue,Login Failure,2023-07-26,2023-07-28,Resolved,Uptown,2.0
+CMP300009,CUST100227,Card Issue,Limit Issue,2024-10-30,2024-11-05,Resolved,East,6.0
+CMP300010,CUST100078,Service,Staff Behavior,2024-08-01,2024-08-07,Resolved,Central,6.0
+CMP300011,CUST100607,App Issue,Crash,2024-01-22,2024-01-25,Resolved,East,3.0
+CMP300012,CUST100348,App Issue,Login Failure,2024-02-16,2024-03-15,Resolved,East,28.0
+CMP300013,CUST100841,Service,KYC Delay,2024-01-05,2024-01-27,Resolved,Uptown,22.0
+CMP300014,CUST100980,Service,Staff Behavior,2023-12-19,2023-12-23,Resolved,Uptown,4.0
+CMP300015,CUST100893,Service,Staff Behavior,2023-12-02,2023-12-18,Resolved,Airport,16.0
+CMP300016,CUST100245,App Issue,Failed Payment,2023-10-16,2023-11-10,Resolved,East,25.0
+CMP300017,CUST100271,App Issue,Crash,2023-05-20,2023-05-23,Resolved,Central,3.0
+CMP300018,CUST100402,App Issue,Crash,2023-10-27,2023-11-18,Resolved,West,22.0
+CMP300019,CUST100668,Service,Account Error,2023-01-13,2023-01-25,Resolved,Central,12.0
+CMP300020,CUST100115,App Issue,Login Failure,2024-10-25,2024-11-09,Resolved,Central,15.0
+CMP300021,CUST100434,Card Issue,Card Blocked,2024-03-03,2024-03-18,Resolved,East,15.0
+CMP300022,CUST100529,Service,KYC Delay,2024-02-04,,Pending,Airport,
+CMP300023,CUST100441,App Issue,Login Failure,2023-04-19,2023-05-19,Resolved,South,30.0
+CMP300024,CUST100171,Loan Delay,Documentation Issue,2024-04-29,2024-04-30,Resolved,City Plaza,1.0
+CMP300025,CUST100015,Loan Delay,Documentation Issue,2023-12-22,,Pending,South,
+CMP300026,CUST100960,App Issue,Crash,2023-05-29,2023-06-15,Resolved,South,17.0
+CMP300027,CUST100751,Loan Delay,Documentation Issue,2024-12-16,,Pending,Central,
+CMP300028,CUST100897,Service,KYC Delay,2023-11-03,2023-11-03,Resolved,East,0.0
+CMP300029,CUST100055,Loan Delay,Approval Delay,2024-06-16,2024-07-03,Resolved,Uptown,17.0
+CMP300030,CUST100590,Service,Staff Behavior,2023-03-01,2023-03-26,Resolved,City Plaza,25.0
+CMP300031,CUST100102,Service,Staff Behavior,2024-03-10,2024-04-08,Resolved,South,29.0
+CMP300032,CUST100283,Service,Account Error,2023-01-21,2023-01-28,Resolved,North,7.0
+CMP300033,CUST100704,Loan Delay,Approval Delay,2024-01-17,2024-01-27,Resolved,North,10.0
+CMP300034,CUST100516,App Issue,Login Failure,2023-09-02,2023-09-25,Resolved,North,23.0
+CMP300035,CUST100617,Service,Account Error,2023-03-14,2023-04-06,Resolved,West,23.0
+CMP300036,CUST100277,Service,Staff Behavior,2024-03-24,2024-04-07,Resolved,East,14.0
+CMP300037,CUST100884,Card Issue,Limit Issue,2023-03-17,2023-04-01,Resolved,Central,15.0
+CMP300038,CUST100611,Loan Delay,Documentation Issue,2024-11-28,2024-12-14,Resolved,Central,16.0
+CMP300039,CUST100749,App Issue,Crash,2024-08-12,2024-08-28,Resolved,East,16.0
+CMP300040,CUST100268,App Issue,Login Failure,2024-01-25,2024-02-05,Resolved,Airport,11.0
+CMP300041,CUST100832,App Issue,Login Failure,2024-07-30,2024-08-08,Resolved,Uptown,9.0
+CMP300042,CUST100399,Service,Staff Behavior,2023-12-08,2023-12-27,Resolved,City Plaza,19.0
+CMP300043,CUST100502,Card Issue,Card Delivery Delay,2023-10-17,2023-10-22,Resolved,Airport,5.0
+CMP300044,CUST100085,Service,Account Error,2024-07-21,2024-07-28,Resolved,Uptown,7.0
+CMP300045,CUST100319,App Issue,Failed Payment,2023-11-27,2023-12-09,Resolved,West,12.0
+CMP300046,CUST100031,Service,Account Error,2023-09-16,2023-09-17,Resolved,East,1.0
+CMP300047,CUST100335,App Issue,Login Failure,2024-03-01,2024-03-29,Resolved,Airport,28.0
+CMP300048,CUST100050,App Issue,Login Failure,2024-12-02,,Pending,City Plaza,
+CMP300049,CUST100078,App Issue,Login Failure,2023-01-06,2023-01-24,Resolved,West,18.0
+CMP300050,CUST100697,Service,Account Error,2023-01-06,2023-01-27,Resolved,South,21.0
+CMP300051,CUST100173,App Issue,Failed Payment,2023-07-10,,Pending,South,
+CMP300052,CUST100947,Service,Staff Behavior,2023-05-28,2023-06-06,Resolved,West,9.0
+CMP300053,CUST100617,Service,Staff Behavior,2024-02-09,2024-02-12,Resolved,Uptown,3.0
+CMP300054,CUST100500,Service,Account Error,2023-09-15,,Pending,East,
+CMP300055,CUST100574,Loan Delay,Approval Delay,2024-12-30,2025-01-10,Resolved,South,11.0
+CMP300056,CUST100075,App Issue,Login Failure,2024-04-23,2024-05-10,Resolved,East,17.0
+CMP300057,CUST100315,App Issue,Login Failure,2023-03-31,2023-04-06,Resolved,Airport,6.0
+CMP300058,CUST100832,App Issue,Login Failure,2023-01-10,2023-01-29,Resolved,South,19.0
+CMP300059,CUST100372,App Issue,Failed Payment,2023-03-28,2023-04-20,Resolved,City Plaza,23.0
+CMP300060,CUST100080,App Issue,Login Failure,2023-05-31,,Pending,City Plaza,
+CMP300061,CUST100872,Service,Staff Behavior,2024-09-16,2024-10-09,Resolved,Airport,23.0
+CMP300062,CUST100639,Service,Staff Behavior,2023-01-30,2023-02-21,Resolved,City Plaza,22.0
+CMP300063,CUST100694,App Issue,Login Failure,2023-05-08,2023-06-02,Resolved,East,25.0
+CMP300064,CUST100754,App Issue,Login Failure,2023-03-19,2023-04-12,Resolved,Uptown,24.0
+CMP300065,CUST100696,Loan Delay,Approval Delay,2024-02-25,2024-02-28,Resolved,East,3.0
+CMP300066,CUST100731,Loan Delay,Documentation Issue,2023-02-24,2023-03-02,Resolved,Uptown,6.0
+CMP300067,CUST100070,Service,KYC Delay,2024-04-24,2024-05-03,Resolved,City Plaza,9.0
+CMP300068,CUST100968,Service,Staff Behavior,2023-11-01,2023-11-26,Resolved,North,25.0
+CMP300069,CUST100853,App Issue,Login Failure,2024-06-29,,Pending,West,
+CMP300070,CUST100665,Service,Staff Behavior,2023-04-15,2023-04-29,Resolved,Uptown,14.0
+CMP300071,CUST100756,Service,Staff Behavior,2023-06-21,2023-07-02,Resolved,Central,11.0
+CMP300072,CUST100651,Loan Delay,Documentation Issue,2024-05-13,2024-05-13,Resolved,West,0.0
+CMP300073,CUST100070,Service,Account Error,2023-01-22,2023-02-10,Resolved,City Plaza,19.0
+CMP300074,CUST100045,Card Issue,Card Delivery Delay,2023-10-14,2023-10-31,Resolved,East,17.0
+CMP300075,CUST100046,App Issue,Crash,2024-01-26,,Pending,Uptown,
+CMP300076,CUST100590,Loan Delay,Documentation Issue,2024-09-08,2024-10-02,Resolved,East,24.0
+CMP300077,CUST100421,Service,Staff Behavior,2023-05-29,2023-06-13,Resolved,West,15.0
+CMP300078,CUST100148,Service,Account Error,2023-09-29,2023-10-03,Resolved,Uptown,4.0
+CMP300079,CUST100909,App Issue,Login Failure,2023-10-26,2023-11-13,Resolved,East,18.0
+CMP300080,CUST100129,Service,Staff Behavior,2023-06-21,2023-06-24,Resolved,Airport,3.0
+CMP300081,CUST100455,Service,KYC Delay,2023-02-16,2023-02-21,Resolved,South,5.0
+CMP300082,CUST100638,Service,KYC Delay,2024-09-17,2024-10-12,Resolved,East,25.0
+CMP300083,CUST100876,Service,Account Error,2023-07-26,2023-08-11,Resolved,Uptown,16.0
+CMP300084,CUST100630,Service,Account Error,2024-03-28,2024-04-03,Resolved,City Plaza,6.0
+CMP300085,CUST100965,Loan Delay,Approval Delay,2024-01-30,2024-02-22,Resolved,City Plaza,23.0
+CMP300086,CUST100996,Service,KYC Delay,2023-10-28,2023-11-19,Resolved,West,22.0
+CMP300087,CUST100868,Service,Staff Behavior,2024-12-08,2024-12-14,Resolved,West,6.0
+CMP300088,CUST100504,App Issue,Login Failure,2024-11-06,2024-11-14,Resolved,West,8.0
+CMP300089,CUST100928,Card Issue,Card Delivery Delay,2023-06-25,2023-07-07,Resolved,City Plaza,12.0
+CMP300090,CUST100773,Service,Account Error,2023-04-20,,Pending,North,
+CMP300091,CUST100243,Service,KYC Delay,2024-11-14,2024-12-03,Resolved,Uptown,19.0
+CMP300092,CUST100473,App Issue,Failed Payment,2023-07-21,2023-08-03,Resolved,City Plaza,13.0
+CMP300093,CUST100381,Card Issue,Card Blocked,2023-06-17,2023-07-02,Resolved,Airport,15.0
+CMP300094,CUST100102,Loan Delay,Approval Delay,2024-09-05,2024-09-27,Resolved,City Plaza,22.0
+CMP300095,CUST100488,App Issue,Login Failure,2023-03-27,2023-04-04,Resolved,Airport,8.0
+CMP300096,CUST100036,Service,KYC Delay,2024-10-15,2024-10-29,Resolved,City Plaza,14.0
+CMP300097,CUST100653,App Issue,Crash,2024-12-25,2024-12-29,Resolved,City Plaza,4.0
+CMP300098,CUST100548,Service,Staff Behavior,2023-02-20,2023-03-09,Resolved,North,17.0
+CMP300099,CUST100519,App Issue,Failed Payment,2023-04-22,2023-05-22,Resolved,Airport,30.0
+CMP300100,CUST100742,App Issue,Failed Payment,2024-04-07,2024-04-27,Resolved,North,20.0
+CMP300101,CUST100332,Card Issue,Card Delivery Delay,2024-03-17,2024-04-05,Resolved,Airport,19.0
+CMP300102,CUST100396,Service,Account Error,2023-09-28,2023-10-05,Resolved,North,7.0
+CMP300103,CUST100295,Service,Staff Behavior,2024-07-30,2024-08-13,Resolved,North,14.0
+CMP300104,CUST100106,App Issue,Crash,2023-12-10,2023-12-30,Resolved,Airport,20.0
+CMP300105,CUST100859,App Issue,Login Failure,2023-07-02,,Pending,North,
+CMP300106,CUST100953,Loan Delay,Documentation Issue,2024-05-17,2024-06-10,Resolved,City Plaza,24.0
+CMP300107,CUST100529,Service,Account Error,2023-01-10,,Pending,Airport,
+CMP300108,CUST100824,Service,Staff Behavior,2024-05-08,2024-05-16,Resolved,North,8.0
+CMP300109,CUST100082,App Issue,Crash,2023-08-22,2023-09-09,Resolved,City Plaza,18.0
+CMP300110,CUST100933,Service,Staff Behavior,2023-10-25,2023-11-22,Resolved,City Plaza,28.0
+CMP300111,CUST100287,Loan Delay,Approval Delay,2023-09-01,2023-09-26,Resolved,West,25.0
+CMP300112,CUST100981,App Issue,Login Failure,2024-05-23,2024-06-22,Resolved,Central,30.0
+CMP300113,CUST100705,Loan Delay,Documentation Issue,2023-12-17,2024-01-07,Resolved,Airport,21.0
+CMP300114,CUST100460,App Issue,Crash,2023-09-24,2023-09-29,Resolved,North,5.0
+CMP300115,CUST100214,Loan Delay,Approval Delay,2024-09-21,2024-09-24,Resolved,West,3.0
+CMP300116,CUST100280,Service,Staff Behavior,2024-10-17,2024-10-27,Resolved,Central,10.0
+CMP300117,CUST100731,Loan Delay,Documentation Issue,2023-07-20,2023-08-17,Resolved,Uptown,28.0
+CMP300118,CUST100953,Service,Staff Behavior,2023-08-27,2023-09-05,Resolved,Uptown,9.0
+CMP300119,CUST100458,App Issue,Failed Payment,2023-11-30,2023-12-02,Resolved,North,2.0
+CMP300120,CUST100800,Service,Account Error,2024-02-19,2024-02-19,Resolved,Uptown,0.0
+CMP300121,CUST100343,App Issue,Failed Payment,2024-04-28,,Pending,Central,
+CMP300122,CUST100193,Service,KYC Delay,2024-03-12,2024-03-23,Resolved,Airport,11.0
+CMP300123,CUST100157,Service,Account Error,2023-09-03,2023-09-25,Resolved,City Plaza,22.0
+CMP300124,CUST100464,Card Issue,Card Blocked,2023-01-08,2023-01-22,Resolved,City Plaza,14.0
+CMP300125,CUST100103,Service,Staff Behavior,2023-06-01,2023-06-15,Resolved,Central,14.0
+CMP300126,CUST100033,Loan Delay,Documentation Issue,2024-01-27,,Pending,Uptown,
+CMP300127,CUST100101,Card Issue,Card Delivery Delay,2023-07-30,2023-08-19,Resolved,City Plaza,20.0
+CMP300128,CUST100638,Service,Staff Behavior,2024-01-02,2024-01-15,Resolved,Uptown,13.0
+CMP300129,CUST100725,App Issue,Failed Payment,2024-10-31,2024-11-25,Resolved,South,25.0
+CMP300130,CUST100324,Service,KYC Delay,2024-07-23,2024-08-22,Resolved,East,30.0
+CMP300131,CUST100943,Service,Account Error,2023-03-27,2023-04-02,Resolved,City Plaza,6.0
+CMP300132,CUST100807,App Issue,Crash,2023-02-24,2023-03-12,Resolved,South,16.0
+CMP300133,CUST100690,Card Issue,Limit Issue,2024-12-13,2025-01-05,Resolved,Airport,23.0
+CMP300134,CUST100591,Service,KYC Delay,2024-09-25,,Pending,Airport,
+CMP300135,CUST100140,App Issue,Failed Payment,2024-03-21,2024-04-08,Resolved,Central,18.0
+CMP300136,CUST100473,App Issue,Crash,2024-09-11,2024-09-17,Resolved,City Plaza,6.0
+CMP300137,CUST100030,Loan Delay,Documentation Issue,2023-10-31,2023-11-27,Resolved,Uptown,27.0
+CMP300138,CUST100883,Service,KYC Delay,2023-05-12,2023-05-14,Resolved,City Plaza,2.0
+CMP300139,CUST100934,App Issue,Failed Payment,2024-02-25,2024-03-25,Resolved,Uptown,29.0
+CMP300140,CUST100062,App Issue,Crash,2024-01-20,2024-01-22,Resolved,Uptown,2.0
+CMP300141,CUST100559,App Issue,Failed Payment,2023-07-17,2023-08-11,Resolved,City Plaza,25.0
+CMP300142,CUST100086,Card Issue,Card Blocked,2023-02-16,2023-03-12,Resolved,Uptown,24.0
+CMP300143,CUST100303,Loan Delay,Approval Delay,2023-07-22,2023-08-19,Resolved,West,28.0
+CMP300144,CUST100060,Service,Account Error,2023-09-18,2023-10-05,Resolved,North,17.0
+CMP300145,CUST100395,App Issue,Login Failure,2024-11-20,2024-12-19,Resolved,East,29.0
+CMP300146,CUST100333,Service,KYC Delay,2023-01-24,2023-02-12,Resolved,City Plaza,19.0
+CMP300147,CUST100951,Service,KYC Delay,2024-11-17,2024-12-08,Resolved,North,21.0
+CMP300148,CUST100785,App Issue,Failed Payment,2023-12-06,2023-12-19,Resolved,West,13.0
+CMP300149,CUST100410,Service,Staff Behavior,2024-02-16,2024-02-18,Resolved,Uptown,2.0
+CMP300150,CUST100283,App Issue,Failed Payment,2023-09-18,2023-10-15,Resolved,Uptown,27.0
+CMP300151,CUST100465,Card Issue,Limit Issue,2023-10-13,2023-11-07,Resolved,Airport,25.0
+CMP300152,CUST100079,Service,KYC Delay,2024-05-27,2024-06-25,Resolved,East,29.0
+CMP300153,CUST100691,Card Issue,Limit Issue,2023-03-27,2023-04-21,Resolved,South,25.0
+CMP300154,CUST100783,App Issue,Crash,2024-03-05,2024-03-11,Resolved,Airport,6.0
+CMP300155,CUST100076,App Issue,Login Failure,2024-08-03,2024-08-09,Resolved,Airport,6.0
+CMP300156,CUST100953,Loan Delay,Approval Delay,2023-01-31,2023-03-02,Resolved,Uptown,30.0
+CMP300157,CUST100732,Service,Account Error,2024-12-10,2024-12-14,Resolved,Central,4.0
+CMP300158,CUST100904,App Issue,Failed Payment,2024-08-25,2024-08-27,Resolved,West,2.0
+CMP300159,CUST100793,App Issue,Failed Payment,2024-03-15,2024-04-01,Resolved,Central,17.0
+CMP300160,CUST100539,Service,KYC Delay,2023-12-15,2023-12-29,Resolved,Central,14.0
+CMP300161,CUST100360,Card Issue,Card Delivery Delay,2024-02-16,2024-03-17,Resolved,North,30.0
+CMP300162,CUST100076,Loan Delay,Approval Delay,2024-06-11,2024-06-30,Resolved,Airport,19.0
+CMP300163,CUST100508,Service,Account Error,2023-11-06,2023-11-19,Resolved,Uptown,13.0
+CMP300164,CUST100163,Service,Account Error,2024-01-31,2024-03-01,Resolved,West,30.0
+CMP300165,CUST100008,App Issue,Login Failure,2023-12-04,2024-01-01,Resolved,Central,28.0
+CMP300166,CUST100174,Service,Staff Behavior,2024-11-04,2024-11-07,Resolved,Uptown,3.0
+CMP300167,CUST100461,App Issue,Crash,2024-03-12,2024-04-07,Resolved,Uptown,26.0
+CMP300168,CUST100306,Service,Staff Behavior,2024-12-04,2024-12-27,Resolved,Uptown,23.0
+CMP300169,CUST100587,App Issue,Login Failure,2024-10-24,2024-10-31,Resolved,South,7.0
+CMP300170,CUST100244,Service,Account Error,2023-12-31,2024-01-28,Resolved,East,28.0
+CMP300171,CUST100121,Service,Staff Behavior,2023-04-23,2023-05-13,Resolved,Uptown,20.0
+CMP300172,CUST100184,App Issue,Crash,2023-06-25,2023-07-07,Resolved,City Plaza,12.0
+CMP300173,CUST100031,App Issue,Failed Payment,2023-05-29,2023-06-19,Resolved,West,21.0
+CMP300174,CUST100997,Card Issue,Limit Issue,2023-06-27,2023-07-04,Resolved,North,7.0
+CMP300175,CUST100962,Loan Delay,Approval Delay,2024-01-17,2024-01-31,Resolved,West,14.0
+CMP300176,CUST100761,Service,KYC Delay,2023-08-11,2023-08-27,Resolved,Airport,16.0
+CMP300177,CUST100568,Service,KYC Delay,2023-09-16,2023-09-20,Resolved,North,4.0
+CMP300178,CUST100309,Loan Delay,Approval Delay,2023-07-08,2023-07-27,Resolved,East,19.0
+CMP300179,CUST100371,Card Issue,Card Blocked,2023-11-02,2023-11-05,Resolved,Uptown,3.0
+CMP300180,CUST100655,Loan Delay,Documentation Issue,2024-01-13,2024-01-23,Resolved,South,10.0
+CMP300181,CUST100829,Service,Account Error,2024-08-24,2024-09-10,Resolved,Central,17.0
+CMP300182,CUST100595,Card Issue,Card Delivery Delay,2023-12-09,2023-12-18,Resolved,West,9.0
+CMP300183,CUST100991,Service,Staff Behavior,2023-06-05,,Pending,North,
+CMP300184,CUST100055,App Issue,Crash,2024-12-12,2024-12-28,Resolved,Uptown,16.0
+CMP300185,CUST100790,Card Issue,Limit Issue,2023-02-24,2023-03-25,Resolved,East,29.0
+CMP300186,CUST100272,Service,Account Error,2024-03-17,,Pending,Central,
+CMP300187,CUST100463,Card Issue,Card Delivery Delay,2024-11-15,,Pending,City Plaza,
+CMP300188,CUST100677,Service,Staff Behavior,2023-07-19,2023-08-02,Resolved,East,14.0
+CMP300189,CUST100455,Card Issue,Limit Issue,2024-02-07,2024-02-12,Resolved,South,5.0
+CMP300190,CUST100978,Service,Account Error,2024-09-05,2024-09-27,Resolved,Central,22.0
+CMP300191,CUST100669,Card Issue,Card Blocked,2024-10-24,2024-11-13,Resolved,Central,20.0
+CMP300192,CUST100248,Service,Account Error,2024-09-14,2024-09-29,Resolved,City Plaza,15.0
+CMP300193,CUST100697,App Issue,Login Failure,2024-08-25,2024-09-08,Resolved,Uptown,14.0
+CMP300194,CUST100993,App Issue,Crash,2023-06-26,2023-07-03,Resolved,Central,7.0
+CMP300195,CUST100077,App Issue,Login Failure,2024-03-24,2024-04-01,Resolved,North,8.0
+CMP300196,CUST100533,Service,Account Error,2024-06-24,2024-07-04,Resolved,Central,10.0
+CMP300197,CUST100107,App Issue,Failed Payment,2023-10-28,2023-11-23,Resolved,East,26.0
+CMP300198,CUST100272,Service,KYC Delay,2024-12-07,,Pending,North,
+CMP300199,CUST100763,App Issue,Crash,2023-11-03,2023-11-04,Resolved,Central,1.0
+CMP300200,CUST100014,Service,Account Error,2023-09-24,2023-10-20,Resolved,East,26.0
+CMP300201,CUST100369,Card Issue,Card Delivery Delay,2023-08-02,2023-08-14,Resolved,East,12.0
+CMP300202,CUST100303,Service,Account Error,2024-08-16,2024-08-19,Resolved,West,3.0
+CMP300203,CUST100671,Service,KYC Delay,2024-10-01,2024-10-27,Resolved,East,26.0
+CMP300204,CUST100204,Service,Account Error,2024-04-27,2024-05-05,Resolved,City Plaza,8.0
+CMP300205,CUST100980,App Issue,Crash,2023-09-19,2023-09-23,Resolved,Airport,4.0
+CMP300206,CUST100112,Service,Account Error,2023-03-08,2023-03-26,Resolved,South,18.0
+CMP300207,CUST100679,App Issue,Login Failure,2024-07-27,2024-08-17,Resolved,Central,21.0
+CMP300208,CUST100864,Loan Delay,Approval Delay,2023-05-13,2023-06-12,Resolved,City Plaza,30.0
+CMP300209,CUST100252,App Issue,Failed Payment,2024-10-10,2024-10-12,Resolved,Central,2.0
+CMP300210,CUST100440,App Issue,Login Failure,2024-06-23,2024-07-22,Resolved,Central,29.0
+CMP300211,CUST100185,Service,KYC Delay,2024-05-26,2024-06-15,Resolved,East,20.0
+CMP300212,CUST100858,App Issue,Login Failure,2023-07-30,,Pending,East,
+CMP300213,CUST100226,Service,Staff Behavior,2024-12-17,2024-12-19,Resolved,Central,2.0
+CMP300214,CUST100527,Loan Delay,Approval Delay,2023-09-10,2023-09-15,Resolved,Airport,5.0
+CMP300215,CUST100667,Service,Staff Behavior,2023-02-07,2023-03-06,Resolved,North,27.0
+CMP300216,CUST100353,App Issue,Login Failure,2023-02-12,2023-02-21,Resolved,North,9.0
+CMP300217,CUST100622,Service,Account Error,2024-09-20,2024-09-24,Resolved,South,4.0
+CMP300218,CUST100000,Loan Delay,Documentation Issue,2024-02-09,2024-03-09,Resolved,West,29.0
+CMP300219,CUST100552,Service,KYC Delay,2024-12-02,2024-12-26,Resolved,Uptown,24.0
+CMP300220,CUST100559,App Issue,Crash,2023-02-15,2023-02-17,Resolved,City Plaza,2.0
+CMP300221,CUST100926,Service,Account Error,2024-03-29,2024-04-19,Resolved,South,21.0
+CMP300222,CUST100419,App Issue,Failed Payment,2024-11-08,2024-12-01,Resolved,Uptown,23.0
+CMP300223,CUST100619,Card Issue,Card Blocked,2023-11-01,2023-11-07,Resolved,Central,6.0
+CMP300224,CUST100160,App Issue,Login Failure,2024-12-15,2025-01-05,Resolved,City Plaza,21.0
+CMP300225,CUST100160,App Issue,Login Failure,2023-08-21,2023-09-19,Resolved,Central,29.0
+CMP300226,CUST100870,Card Issue,Card Delivery Delay,2023-09-02,2023-10-02,Resolved,Central,30.0
+CMP300227,CUST100127,App Issue,Crash,2024-12-21,2025-01-07,Resolved,West,17.0
+CMP300228,CUST100721,App Issue,Login Failure,2023-10-22,2023-11-21,Resolved,East,30.0
+CMP300229,CUST100150,App Issue,Failed Payment,2024-01-18,,Pending,West,
+CMP300230,CUST100443,App Issue,Crash,2023-06-07,2023-06-29,Resolved,South,22.0
+CMP300231,CUST100766,Service,Account Error,2024-02-09,2024-02-16,Resolved,East,7.0
+CMP300232,CUST100470,Loan Delay,Approval Delay,2023-01-01,2023-01-01,Resolved,East,0.0
+CMP300233,CUST100462,App Issue,Failed Payment,2023-08-05,,Pending,South,
+CMP300234,CUST100729,Service,Account Error,2024-05-21,2024-06-20,Resolved,East,30.0
+CMP300235,CUST100029,Loan Delay,Documentation Issue,2024-08-03,2024-08-27,Resolved,City Plaza,24.0
+CMP300236,CUST100472,Service,Account Error,2023-01-30,2023-02-02,Resolved,North,3.0
+CMP300237,CUST100556,Service,KYC Delay,2024-09-18,2024-10-11,Resolved,South,23.0
+CMP300238,CUST100079,App Issue,Login Failure,2024-06-03,2024-07-03,Resolved,Uptown,30.0
+CMP300239,CUST100038,Loan Delay,Approval Delay,2023-10-02,2023-10-27,Resolved,South,25.0
+CMP300240,CUST100239,Loan Delay,Documentation Issue,2024-05-06,2024-05-12,Resolved,North,6.0
+CMP300241,CUST100556,Card Issue,Card Delivery Delay,2023-02-05,2023-02-18,Resolved,West,13.0
+CMP300242,CUST100589,Loan Delay,Documentation Issue,2023-11-07,2023-11-19,Resolved,West,12.0
+CMP300243,CUST100336,Service,Staff Behavior,2023-02-13,2023-02-22,Resolved,West,9.0
+CMP300244,CUST100907,Service,Staff Behavior,2023-06-04,2023-06-26,Resolved,East,22.0
+CMP300245,CUST100860,Loan Delay,Approval Delay,2023-03-18,2023-04-04,Resolved,North,17.0
+CMP300246,CUST100799,Service,KYC Delay,2024-08-12,2024-08-12,Resolved,City Plaza,0.0
+CMP300247,CUST100951,App Issue,Login Failure,2024-09-04,,Pending,South,
+CMP300248,CUST100279,App Issue,Crash,2024-03-13,,Pending,South,
+CMP300249,CUST100115,Service,Account Error,2024-03-07,2024-03-10,Resolved,South,3.0
+CMP300250,CUST100268,Card Issue,Card Delivery Delay,2024-06-25,2024-07-22,Resolved,East,27.0
+CMP300251,CUST100915,App Issue,Login Failure,2023-02-08,2023-02-23,Resolved,East,15.0
+CMP300252,CUST100334,App Issue,Crash,2023-08-27,2023-09-11,Resolved,Airport,15.0
+CMP300253,CUST100311,Card Issue,Card Delivery Delay,2023-01-13,2023-01-30,Resolved,City Plaza,17.0
+CMP300254,CUST100052,App Issue,Login Failure,2023-05-02,,Pending,West,
+CMP300255,CUST100067,Service,KYC Delay,2023-05-24,2023-05-31,Resolved,Uptown,7.0
+CMP300256,CUST100693,App Issue,Failed Payment,2024-11-14,2024-11-23,Resolved,Airport,9.0
+CMP300257,CUST100033,Loan Delay,Documentation Issue,2024-03-30,2024-04-14,Resolved,Airport,15.0
+CMP300258,CUST100795,Loan Delay,Documentation Issue,2024-01-03,2024-01-25,Resolved,East,22.0
+CMP300259,CUST100817,Loan Delay,Documentation Issue,2023-09-04,2023-09-27,Resolved,West,23.0
+CMP300260,CUST100385,App Issue,Crash,2023-02-14,2023-02-24,Resolved,West,10.0
+CMP300261,CUST100248,Service,KYC Delay,2024-01-10,2024-01-15,Resolved,South,5.0
+CMP300262,CUST100110,Loan Delay,Approval Delay,2023-10-18,2023-10-18,Resolved,East,0.0
+CMP300263,CUST100093,Loan Delay,Documentation Issue,2023-07-26,,Pending,West,
+CMP300264,CUST100409,Service,Staff Behavior,2024-06-02,2024-07-01,Resolved,Uptown,29.0
+CMP300265,CUST100178,Service,Account Error,2023-08-30,2023-09-27,Resolved,Airport,28.0
+CMP300266,CUST100046,Card Issue,Card Blocked,2024-09-13,2024-10-11,Resolved,North,28.0
+CMP300267,CUST100793,Loan Delay,Documentation Issue,2023-04-24,2023-05-05,Resolved,North,11.0
+CMP300268,CUST100851,Loan Delay,Documentation Issue,2023-10-29,2023-11-22,Resolved,East,24.0
+CMP300269,CUST100873,Loan Delay,Approval Delay,2023-10-03,2023-10-08,Resolved,South,5.0
+CMP300270,CUST100603,App Issue,Login Failure,2023-04-06,2023-05-03,Resolved,South,27.0
+CMP300271,CUST100375,App Issue,Failed Payment,2023-10-21,2023-11-02,Resolved,West,12.0
+CMP300272,CUST100723,App Issue,Failed Payment,2024-12-01,2024-12-26,Resolved,Uptown,25.0
+CMP300273,CUST100586,Service,Account Error,2023-12-26,2024-01-11,Resolved,City Plaza,16.0
+CMP300274,CUST100889,App Issue,Crash,2023-10-15,2023-10-15,Resolved,East,0.0
+CMP300275,CUST100201,App Issue,Failed Payment,2023-06-03,2023-06-10,Resolved,City Plaza,7.0
+CMP300276,CUST100444,App Issue,Login Failure,2024-07-23,2024-08-13,Resolved,North,21.0
+CMP300277,CUST100918,App Issue,Login Failure,2024-02-27,2024-03-05,Resolved,Airport,7.0
+CMP300278,CUST100932,App Issue,Login Failure,2023-02-19,2023-03-14,Resolved,West,23.0
+CMP300279,CUST100296,Service,Account Error,2023-07-26,2023-08-25,Resolved,Airport,30.0
+CMP300280,CUST100307,Service,Account Error,2024-07-17,2024-07-27,Resolved,City Plaza,10.0
+CMP300281,CUST100722,Service,KYC Delay,2024-10-23,2024-11-05,Resolved,West,13.0
+CMP300282,CUST100492,Service,KYC Delay,2024-07-18,2024-08-10,Resolved,Central,23.0
+CMP300283,CUST100337,Card Issue,Card Blocked,2023-08-01,2023-08-10,Resolved,Airport,9.0
+CMP300284,CUST100944,Service,KYC Delay,2023-03-07,2023-03-21,Resolved,East,14.0
+CMP300285,CUST100922,Service,KYC Delay,2023-08-20,2023-08-26,Resolved,Airport,6.0
+CMP300286,CUST100645,App Issue,Login Failure,2024-10-24,,Pending,Airport,
+CMP300287,CUST100841,App Issue,Failed Payment,2024-12-17,,Pending,West,
+CMP300288,CUST100065,Service,KYC Delay,2023-11-16,2023-11-22,Resolved,North,6.0
+CMP300289,CUST100791,Loan Delay,Documentation Issue,2023-05-17,2023-05-26,Resolved,City Plaza,9.0
+CMP300290,CUST100421,Loan Delay,Documentation Issue,2024-10-08,2024-10-11,Resolved,Central,3.0
+CMP300291,CUST100539,Service,Account Error,2024-07-19,2024-08-12,Resolved,Airport,24.0
+CMP300292,CUST100923,Service,Staff Behavior,2023-03-06,,Pending,Uptown,
+CMP300293,CUST100628,Card Issue,Card Blocked,2024-05-28,2024-06-24,Resolved,City Plaza,27.0
+CMP300294,CUST100492,Loan Delay,Documentation Issue,2023-05-12,2023-05-29,Resolved,Uptown,17.0
+CMP300295,CUST100881,App Issue,Crash,2023-11-30,2023-12-26,Resolved,City Plaza,26.0
+CMP300296,CUST100998,Service,Staff Behavior,2023-02-01,,Pending,Uptown,
+CMP300297,CUST100961,App Issue,Login Failure,2024-05-12,2024-06-05,Resolved,North,24.0
+CMP300298,CUST100316,App Issue,Login Failure,2023-08-31,2023-09-09,Resolved,South,9.0
+CMP300299,CUST100941,Service,KYC Delay,2023-07-11,2023-07-29,Resolved,Central,18.0
+CMP300300,CUST100836,App Issue,Crash,2023-05-22,2023-06-04,Resolved,Central,13.0
+CMP300301,CUST100625,App Issue,Crash,2024-10-21,2024-11-02,Resolved,Uptown,12.0
+CMP300302,CUST100074,Service,Staff Behavior,2024-08-23,2024-09-06,Resolved,Uptown,14.0
+CMP300303,CUST100713,Loan Delay,Documentation Issue,2024-07-14,2024-07-29,Resolved,Uptown,15.0
+CMP300304,CUST100938,Loan Delay,Documentation Issue,2024-10-09,2024-10-10,Resolved,City Plaza,1.0
+CMP300305,CUST100058,Service,Staff Behavior,2023-07-10,2023-08-07,Resolved,West,28.0
+CMP300306,CUST100385,Loan Delay,Approval Delay,2023-05-29,2023-06-01,Resolved,Airport,3.0
+CMP300307,CUST100014,Service,Account Error,2024-08-21,2024-09-10,Resolved,South,20.0
+CMP300308,CUST100230,Loan Delay,Documentation Issue,2024-02-20,2024-03-08,Resolved,Uptown,17.0
+CMP300309,CUST100616,Service,KYC Delay,2024-06-03,2024-07-01,Resolved,West,28.0
+CMP300310,CUST100676,Service,Account Error,2023-01-16,2023-02-15,Resolved,East,30.0
+CMP300311,CUST100198,App Issue,Failed Payment,2023-04-16,2023-05-02,Resolved,North,16.0
+CMP300312,CUST100915,App Issue,Crash,2023-10-10,,Pending,North,
+CMP300313,CUST100353,Card Issue,Card Delivery Delay,2023-04-14,2023-04-23,Resolved,West,9.0
+CMP300314,CUST100034,Service,Account Error,2023-12-27,2024-01-22,Resolved,City Plaza,26.0
+CMP300315,CUST100161,Service,KYC Delay,2024-10-19,2024-11-08,Resolved,North,20.0
+CMP300316,CUST100756,App Issue,Failed Payment,2023-02-04,2023-02-12,Resolved,Airport,8.0
+CMP300317,CUST100981,App Issue,Failed Payment,2023-04-23,2023-05-07,Resolved,North,14.0
+CMP300318,CUST100798,Service,Account Error,2023-11-04,2023-12-01,Resolved,Airport,27.0
+CMP300319,CUST100894,App Issue,Failed Payment,2023-02-22,2023-03-05,Resolved,East,11.0
+CMP300320,CUST100470,Loan Delay,Approval Delay,2023-03-22,2023-04-21,Resolved,Uptown,30.0
+CMP300321,CUST100530,Loan Delay,Documentation Issue,2024-09-07,,Pending,South,
+CMP300322,CUST100963,Card Issue,Card Blocked,2024-01-04,2024-01-24,Resolved,Central,20.0
+CMP300323,CUST100791,Service,Staff Behavior,2023-08-30,2023-09-26,Resolved,West,27.0
+CMP300324,CUST100851,App Issue,Failed Payment,2023-01-31,2023-02-26,Resolved,West,26.0
+CMP300325,CUST100422,Service,KYC Delay,2024-12-04,2024-12-29,Resolved,Airport,25.0
+CMP300326,CUST100347,App Issue,Crash,2023-12-27,2024-01-04,Resolved,East,8.0
+CMP300327,CUST100693,App Issue,Failed Payment,2023-08-21,2023-09-03,Resolved,East,13.0
+CMP300328,CUST100934,Card Issue,Card Blocked,2024-09-01,2024-09-13,Resolved,City Plaza,12.0
+CMP300329,CUST100912,App Issue,Failed Payment,2023-02-03,2023-03-02,Resolved,Central,27.0
+CMP300330,CUST100146,Card Issue,Limit Issue,2023-08-31,2023-09-25,Resolved,Uptown,25.0
+CMP300331,CUST100373,Loan Delay,Approval Delay,2023-02-28,2023-03-05,Resolved,South,5.0
+CMP300332,CUST100687,Card Issue,Card Blocked,2024-06-12,2024-06-30,Resolved,West,18.0
+CMP300333,CUST100674,Loan Delay,Documentation Issue,2023-03-19,2023-03-22,Resolved,Airport,3.0
+CMP300334,CUST100415,App Issue,Crash,2024-12-18,2025-01-06,Resolved,East,19.0
+CMP300335,CUST100686,Service,KYC Delay,2023-10-29,2023-11-14,Resolved,Uptown,16.0
+CMP300336,CUST100493,Service,KYC Delay,2024-11-08,2024-11-26,Resolved,West,18.0
+CMP300337,CUST100558,Service,Staff Behavior,2023-04-22,2023-04-24,Resolved,Airport,2.0
+CMP300338,CUST100255,App Issue,Crash,2024-02-17,2024-03-16,Resolved,North,28.0
+CMP300339,CUST100959,App Issue,Failed Payment,2023-11-13,2023-11-26,Resolved,Uptown,13.0
+CMP300340,CUST100685,App Issue,Login Failure,2023-05-25,2023-06-10,Resolved,West,16.0
+CMP300341,CUST100102,Card Issue,Card Delivery Delay,2024-10-29,2024-11-10,Resolved,South,12.0
+CMP300342,CUST100120,Card Issue,Card Delivery Delay,2024-11-20,2024-11-28,Resolved,Uptown,8.0
+CMP300343,CUST100418,Service,Staff Behavior,2024-10-09,2024-11-04,Resolved,Airport,26.0
+CMP300344,CUST100349,Service,Account Error,2023-01-18,2023-01-18,Resolved,South,0.0
+CMP300345,CUST100656,App Issue,Login Failure,2023-12-17,2024-01-10,Resolved,West,24.0
+CMP300346,CUST100041,Service,Account Error,2023-06-04,,Pending,North,
+CMP300347,CUST100366,Loan Delay,Approval Delay,2024-05-20,,Pending,South,
+CMP300348,CUST100028,App Issue,Crash,2023-12-26,2024-01-11,Resolved,East,16.0
+CMP300349,CUST100965,App Issue,Crash,2023-11-28,2023-12-13,Resolved,Airport,15.0
+CMP300350,CUST100891,Loan Delay,Documentation Issue,2024-06-11,2024-06-28,Resolved,West,17.0
+CMP300351,CUST100784,Loan Delay,Approval Delay,2023-01-12,2023-01-13,Resolved,North,1.0
+CMP300352,CUST100976,Service,Staff Behavior,2023-03-16,,Pending,East,
+CMP300353,CUST100013,App Issue,Failed Payment,2023-07-31,2023-08-13,Resolved,West,13.0
+CMP300354,CUST100919,App Issue,Crash,2024-11-21,2024-12-12,Resolved,Uptown,21.0
+CMP300355,CUST100952,Service,KYC Delay,2024-10-02,2024-10-24,Resolved,City Plaza,22.0
+CMP300356,CUST100817,Service,Account Error,2023-10-10,2023-11-05,Resolved,North,26.0
+CMP300357,CUST100824,App Issue,Crash,2023-07-14,2023-07-30,Resolved,East,16.0
+CMP300358,CUST100484,Service,KYC Delay,2023-01-30,,Pending,South,
+CMP300359,CUST100188,Service,Account Error,2023-01-09,2023-01-11,Resolved,West,2.0
+CMP300360,CUST100871,App Issue,Crash,2023-11-05,2023-11-06,Resolved,West,1.0
+CMP300361,CUST100294,Loan Delay,Approval Delay,2024-03-20,2024-03-27,Resolved,South,7.0
+CMP300362,CUST100182,Service,KYC Delay,2023-11-06,,Pending,City Plaza,
+CMP300363,CUST100863,Service,KYC Delay,2024-11-07,2024-12-01,Resolved,Central,24.0
+CMP300364,CUST100547,Loan Delay,Documentation Issue,2024-12-05,2025-01-02,Resolved,East,28.0
+CMP300365,CUST100881,Service,Account Error,2024-03-01,2024-03-02,Resolved,South,1.0
+CMP300366,CUST100036,Card Issue,Card Blocked,2024-12-04,,Pending,Uptown,
+CMP300367,CUST100013,App Issue,Login Failure,2024-08-13,2024-08-14,Resolved,West,1.0
+CMP300368,CUST100922,Service,KYC Delay,2024-11-21,2024-12-16,Resolved,Uptown,25.0
+CMP300369,CUST100634,Service,KYC Delay,2023-04-01,,Pending,East,
+CMP300370,CUST100594,Service,Staff Behavior,2024-03-31,2024-04-30,Resolved,City Plaza,30.0
+CMP300371,CUST100158,Service,KYC Delay,2024-03-19,2024-03-27,Resolved,East,8.0
+CMP300372,CUST100493,Service,Staff Behavior,2024-12-27,2025-01-25,Resolved,Uptown,29.0
+CMP300373,CUST100328,App Issue,Failed Payment,2023-03-20,2023-04-08,Resolved,Uptown,19.0
+CMP300374,CUST100613,Service,Account Error,2024-04-19,2024-05-09,Resolved,Central,20.0
+CMP300375,CUST100848,App Issue,Failed Payment,2023-04-13,2023-05-11,Resolved,West,28.0
+CMP300376,CUST100082,App Issue,Failed Payment,2024-09-14,2024-10-10,Resolved,North,26.0
+CMP300377,CUST100555,Service,Account Error,2024-03-31,,Pending,Central,
+CMP300378,CUST100579,Service,Account Error,2023-11-10,2023-12-04,Resolved,Central,24.0
+CMP300379,CUST100559,Service,Staff Behavior,2023-09-04,2023-09-09,Resolved,North,5.0
+CMP300380,CUST100568,Service,KYC Delay,2023-08-22,,Pending,North,
+CMP300381,CUST100586,App Issue,Login Failure,2024-08-16,2024-09-10,Resolved,City Plaza,25.0
+CMP300382,CUST100021,Service,Account Error,2024-10-05,2024-10-16,Resolved,City Plaza,11.0
+CMP300383,CUST100131,Loan Delay,Approval Delay,2023-08-23,2023-09-16,Resolved,Central,24.0
+CMP300384,CUST100464,App Issue,Crash,2024-01-22,2024-01-30,Resolved,East,8.0
+CMP300385,CUST100455,App Issue,Failed Payment,2024-09-02,2024-09-08,Resolved,South,6.0
+CMP300386,CUST100301,App Issue,Failed Payment,2023-02-07,2023-03-08,Resolved,South,29.0
+CMP300387,CUST100954,App Issue,Failed Payment,2023-06-10,2023-06-21,Resolved,Central,11.0
+CMP300388,CUST100929,Service,Account Error,2024-04-06,2024-05-01,Resolved,East,25.0
+CMP300389,CUST100266,Service,Account Error,2024-03-24,2024-04-17,Resolved,North,24.0
+CMP300390,CUST100798,App Issue,Failed Payment,2023-04-27,2023-05-01,Resolved,Airport,4.0
+CMP300391,CUST100394,Service,KYC Delay,2023-08-29,2023-09-13,Resolved,Central,15.0
+CMP300392,CUST100119,App Issue,Failed Payment,2023-01-26,2023-01-30,Resolved,West,4.0
+CMP300393,CUST100245,App Issue,Failed Payment,2024-10-09,2024-10-20,Resolved,East,11.0
+CMP300394,CUST100567,App Issue,Crash,2024-07-15,2024-08-07,Resolved,West,23.0
+CMP300395,CUST100037,App Issue,Login Failure,2023-10-25,2023-11-19,Resolved,West,25.0
+CMP300396,CUST100244,App Issue,Failed Payment,2023-06-03,2023-06-22,Resolved,Central,19.0
+CMP300397,CUST100020,App Issue,Crash,2024-10-13,2024-10-21,Resolved,East,8.0
+CMP300398,CUST100109,App Issue,Crash,2024-04-12,2024-05-04,Resolved,West,22.0
+CMP300399,CUST100605,App Issue,Login Failure,2023-02-18,2023-02-24,Resolved,City Plaza,6.0
+CMP300400,CUST100393,App Issue,Failed Payment,2024-10-15,2024-11-12,Resolved,Uptown,28.0
+CMP300401,CUST100409,Loan Delay,Documentation Issue,2023-02-15,2023-03-17,Resolved,City Plaza,30.0
+CMP300402,CUST100986,App Issue,Failed Payment,2024-11-05,2024-11-23,Resolved,East,18.0
+CMP300403,CUST100647,App Issue,Failed Payment,2023-10-12,2023-10-31,Resolved,South,19.0
+CMP300404,CUST100742,Loan Delay,Approval Delay,2024-09-19,2024-10-11,Resolved,Uptown,22.0
+CMP300405,CUST100007,App Issue,Failed Payment,2023-03-23,2023-04-02,Resolved,Airport,10.0
+CMP300406,CUST100443,Service,Account Error,2023-02-13,,Pending,West,
+CMP300407,CUST100327,Loan Delay,Documentation Issue,2024-12-06,2025-01-01,Resolved,West,26.0
+CMP300408,CUST100886,Service,Account Error,2023-09-30,2023-10-29,Resolved,East,29.0
+CMP300409,CUST100289,App Issue,Failed Payment,2024-01-29,2024-02-18,Resolved,City Plaza,20.0
+CMP300410,CUST100762,Loan Delay,Approval Delay,2024-08-17,2024-08-28,Resolved,Airport,11.0
+CMP300411,CUST100510,Card Issue,Card Blocked,2023-02-27,2023-03-01,Resolved,South,2.0
+CMP300412,CUST100911,Service,Staff Behavior,2024-07-18,2024-08-03,Resolved,West,16.0
+CMP300413,CUST100360,App Issue,Failed Payment,2023-01-01,2023-01-07,Resolved,Central,6.0
+CMP300414,CUST100908,App Issue,Failed Payment,2023-08-04,2023-08-25,Resolved,City Plaza,21.0
+CMP300415,CUST100598,Service,KYC Delay,2023-11-13,2023-11-22,Resolved,East,9.0
+CMP300416,CUST100715,Service,KYC Delay,2023-08-16,2023-09-15,Resolved,East,30.0
+CMP300417,CUST100218,App Issue,Crash,2024-04-17,2024-05-09,Resolved,City Plaza,22.0
+CMP300418,CUST100405,App Issue,Failed Payment,2024-04-28,,Pending,West,
+CMP300419,CUST100991,Service,Staff Behavior,2024-11-01,2024-11-15,Resolved,South,14.0
+CMP300420,CUST100752,App Issue,Login Failure,2023-10-14,2023-11-12,Resolved,West,29.0
+CMP300421,CUST100922,App Issue,Login Failure,2024-05-25,2024-05-26,Resolved,City Plaza,1.0
+CMP300422,CUST100831,Loan Delay,Documentation Issue,2024-07-31,,Pending,Uptown,
+CMP300423,CUST100769,Card Issue,Card Blocked,2024-04-02,2024-04-14,Resolved,North,12.0
+CMP300424,CUST100620,App Issue,Crash,2023-04-05,2023-05-02,Resolved,West,27.0
+CMP300425,CUST100767,Card Issue,Limit Issue,2024-05-07,2024-05-10,Resolved,Airport,3.0
+CMP300426,CUST100992,Loan Delay,Documentation Issue,2023-05-30,2023-06-16,Resolved,Uptown,17.0
+CMP300427,CUST100793,Service,Staff Behavior,2023-01-23,,Pending,City Plaza,
+CMP300428,CUST100219,Service,KYC Delay,2023-08-03,2023-08-26,Resolved,Uptown,23.0
+CMP300429,CUST100594,App Issue,Login Failure,2024-02-03,2024-02-25,Resolved,Airport,22.0
+CMP300430,CUST100106,App Issue,Login Failure,2024-02-14,2024-02-14,Resolved,Uptown,0.0
+CMP300431,CUST100580,App Issue,Crash,2023-05-11,2023-05-12,Resolved,Uptown,1.0
+CMP300432,CUST100608,App Issue,Crash,2023-05-28,2023-05-29,Resolved,City Plaza,1.0
+CMP300433,CUST100723,App Issue,Crash,2024-01-16,2024-01-19,Resolved,North,3.0
+CMP300434,CUST100285,App Issue,Crash,2023-04-19,2023-04-21,Resolved,Airport,2.0
+CMP300435,CUST100748,Service,Staff Behavior,2024-07-05,2024-07-21,Resolved,Airport,16.0
+CMP300436,CUST100007,Loan Delay,Approval Delay,2023-05-01,2023-05-28,Resolved,Central,27.0
+CMP300437,CUST100805,Service,KYC Delay,2023-10-22,2023-11-04,Resolved,East,13.0
+CMP300438,CUST100188,Card Issue,Card Delivery Delay,2023-04-30,2023-05-01,Resolved,Airport,1.0
+CMP300439,CUST100080,Service,KYC Delay,2024-03-31,2024-04-15,Resolved,East,15.0
+CMP300440,CUST100107,Card Issue,Limit Issue,2024-06-13,2024-06-23,Resolved,City Plaza,10.0
+CMP300441,CUST100320,Service,Staff Behavior,2023-06-18,2023-07-12,Resolved,South,24.0
+CMP300442,CUST100578,Service,Staff Behavior,2024-12-10,2024-12-22,Resolved,West,12.0
+CMP300443,CUST100685,Service,Account Error,2023-05-23,2023-05-23,Resolved,Central,0.0
+CMP300444,CUST100345,App Issue,Crash,2023-02-06,2023-03-02,Resolved,City Plaza,24.0
+CMP300445,CUST100862,Loan Delay,Approval Delay,2024-11-28,2024-12-20,Resolved,North,22.0
+CMP300446,CUST100327,App Issue,Crash,2023-09-18,2023-09-19,Resolved,South,1.0
+CMP300447,CUST100554,Card Issue,Limit Issue,2023-08-19,2023-08-20,Resolved,Uptown,1.0
+CMP300448,CUST100698,App Issue,Crash,2023-09-11,2023-10-01,Resolved,Central,20.0
+CMP300449,CUST100301,App Issue,Crash,2023-11-25,2023-12-23,Resolved,Central,28.0
+CMP300450,CUST100199,Loan Delay,Documentation Issue,2023-10-24,2023-10-28,Resolved,City Plaza,4.0
+CMP300451,CUST100892,Service,KYC Delay,2023-01-10,2023-01-13,Resolved,North,3.0
+CMP300452,CUST100418,Service,KYC Delay,2024-03-21,2024-04-01,Resolved,North,11.0
+CMP300453,CUST100038,Card Issue,Limit Issue,2023-08-18,,Pending,East,
+CMP300454,CUST100731,Card Issue,Card Delivery Delay,2024-06-19,2024-07-14,Resolved,West,25.0
+CMP300455,CUST100306,Card Issue,Limit Issue,2023-03-19,,Pending,City Plaza,
+CMP300456,CUST100003,Card Issue,Card Delivery Delay,2024-02-29,2024-03-25,Resolved,South,25.0
+CMP300457,CUST100632,Service,Staff Behavior,2023-07-12,2023-08-09,Resolved,West,28.0
+CMP300458,CUST100847,Loan Delay,Approval Delay,2024-02-05,2024-03-03,Resolved,South,27.0
+CMP300459,CUST100076,App Issue,Failed Payment,2023-04-19,2023-04-21,Resolved,Central,2.0
+CMP300460,CUST100467,Card Issue,Card Blocked,2023-09-20,2023-10-09,Resolved,Airport,19.0
+CMP300461,CUST100178,App Issue,Failed Payment,2023-11-25,2023-12-04,Resolved,Airport,9.0
+CMP300462,CUST100644,App Issue,Failed Payment,2023-12-29,,Pending,City Plaza,
+CMP300463,CUST100822,App Issue,Login Failure,2024-01-13,2024-02-01,Resolved,North,19.0
+CMP300464,CUST100740,Service,KYC Delay,2023-12-07,2023-12-24,Resolved,North,17.0
+CMP300465,CUST100275,Service,KYC Delay,2023-09-16,2023-10-06,Resolved,Uptown,20.0
+CMP300466,CUST100151,Loan Delay,Documentation Issue,2023-12-01,,Pending,Central,
+CMP300467,CUST100163,Loan Delay,Approval Delay,2023-03-26,2023-04-25,Resolved,Central,30.0
+CMP300468,CUST100289,Service,KYC Delay,2024-06-05,,Pending,South,
+CMP300469,CUST100377,Loan Delay,Documentation Issue,2024-07-24,2024-08-13,Resolved,Central,20.0
+CMP300470,CUST100620,App Issue,Login Failure,2023-11-04,,Pending,Uptown,
+CMP300471,CUST100637,App Issue,Failed Payment,2023-09-19,2023-10-09,Resolved,City Plaza,20.0
+CMP300472,CUST100751,Service,Staff Behavior,2024-09-22,2024-10-18,Resolved,South,26.0
+CMP300473,CUST100309,Loan Delay,Approval Delay,2024-11-10,,Pending,West,
+CMP300474,CUST100929,App Issue,Crash,2024-12-01,2024-12-31,Resolved,North,30.0
+CMP300475,CUST100978,App Issue,Failed Payment,2024-03-27,2024-04-22,Resolved,North,26.0
+CMP300476,CUST100912,App Issue,Crash,2023-09-08,2023-09-17,Resolved,Airport,9.0
+CMP300477,CUST100388,Service,KYC Delay,2023-11-20,2023-11-20,Resolved,Airport,0.0
+CMP300478,CUST100856,App Issue,Login Failure,2023-08-17,2023-08-22,Resolved,Uptown,5.0
+CMP300479,CUST100657,Service,KYC Delay,2024-12-02,2024-12-12,Resolved,City Plaza,10.0
+CMP300480,CUST100763,Service,Staff Behavior,2024-09-27,2024-09-28,Resolved,North,1.0
+CMP300481,CUST100182,App Issue,Login Failure,2024-08-18,2024-08-24,Resolved,Uptown,6.0
+CMP300482,CUST100820,Card Issue,Card Delivery Delay,2023-10-24,2023-11-12,Resolved,City Plaza,19.0
+CMP300483,CUST100305,App Issue,Login Failure,2024-12-27,2025-01-26,Resolved,West,30.0
+CMP300484,CUST100071,Service,KYC Delay,2023-08-25,2023-09-14,Resolved,West,20.0
+CMP300485,CUST100218,App Issue,Login Failure,2024-09-16,2024-10-06,Resolved,East,20.0
+CMP300486,CUST100718,Loan Delay,Approval Delay,2023-08-05,2023-08-25,Resolved,South,20.0
+CMP300487,CUST100172,App Issue,Failed Payment,2023-09-03,2023-09-20,Resolved,Airport,17.0
+CMP300488,CUST100652,Loan Delay,Approval Delay,2024-03-23,2024-04-12,Resolved,South,20.0
+CMP300489,CUST100271,App Issue,Crash,2023-11-15,2023-12-03,Resolved,Airport,18.0
+CMP300490,CUST100725,Loan Delay,Documentation Issue,2024-03-07,,Pending,East,
+CMP300491,CUST100467,Service,KYC Delay,2024-02-08,2024-02-11,Resolved,North,3.0
+CMP300492,CUST100268,Service,Staff Behavior,2023-02-06,,Pending,Uptown,
+CMP300493,CUST100019,Service,KYC Delay,2024-07-29,2024-08-10,Resolved,City Plaza,12.0
+CMP300494,CUST100577,App Issue,Crash,2023-12-08,,Pending,South,
+CMP300495,CUST100994,Card Issue,Card Blocked,2024-01-24,,Pending,Airport,
+CMP300496,CUST100814,Loan Delay,Documentation Issue,2023-02-03,2023-02-20,Resolved,South,17.0
+CMP300497,CUST100502,Service,Account Error,2023-02-08,2023-02-27,Resolved,North,19.0
+CMP300498,CUST100146,Service,Staff Behavior,2024-08-01,2024-08-29,Resolved,City Plaza,28.0
+CMP300499,CUST100428,Service,Account Error,2023-07-28,2023-08-21,Resolved,Central,24.0
+CMP300500,CUST100164,Service,Account Error,2023-06-01,2023-06-24,Resolved,Airport,23.0
+CMP300501,CUST100889,App Issue,Failed Payment,2023-12-31,,Pending,Uptown,
+CMP300502,CUST100309,Card Issue,Limit Issue,2023-07-18,2023-07-30,Resolved,Central,12.0
+CMP300503,CUST100517,Card Issue,Card Delivery Delay,2024-08-23,2024-09-21,Resolved,East,29.0
+CMP300504,CUST100013,App Issue,Crash,2023-03-20,2023-04-19,Resolved,City Plaza,30.0
+CMP300505,CUST100131,Loan Delay,Documentation Issue,2024-04-21,2024-05-17,Resolved,West,26.0
+CMP300506,CUST100853,App Issue,Crash,2024-03-09,2024-04-05,Resolved,South,27.0
+CMP300507,CUST100754,Service,Staff Behavior,2023-02-01,2023-02-19,Resolved,Airport,18.0
+CMP300508,CUST100438,App Issue,Login Failure,2023-03-28,2023-04-13,Resolved,Uptown,16.0
+CMP300509,CUST100742,App Issue,Failed Payment,2024-07-04,2024-07-04,Resolved,South,0.0
+CMP300510,CUST100739,App Issue,Crash,2024-01-28,2024-02-02,Resolved,East,5.0
+CMP300511,CUST100673,Service,Staff Behavior,2024-09-04,2024-09-22,Resolved,East,18.0
+CMP300512,CUST100794,Service,Staff Behavior,2023-09-01,2023-09-20,Resolved,South,19.0
+CMP300513,CUST100262,Service,Staff Behavior,2023-08-20,,Pending,Airport,
+CMP300514,CUST100642,Card Issue,Card Blocked,2024-08-02,2024-08-02,Resolved,Uptown,0.0
+CMP300515,CUST100942,App Issue,Failed Payment,2023-07-11,2023-07-18,Resolved,City Plaza,7.0
+CMP300516,CUST100224,Loan Delay,Approval Delay,2024-06-23,2024-07-09,Resolved,North,16.0
+CMP300517,CUST100257,Loan Delay,Documentation Issue,2023-09-27,2023-10-17,Resolved,City Plaza,20.0
+CMP300518,CUST100233,Service,Staff Behavior,2023-03-18,2023-04-08,Resolved,North,21.0
+CMP300519,CUST100335,App Issue,Failed Payment,2023-06-16,2023-06-30,Resolved,Uptown,14.0
+CMP300520,CUST100408,Loan Delay,Approval Delay,2023-10-11,2023-10-28,Resolved,West,17.0
+CMP300521,CUST100827,App Issue,Login Failure,2024-12-04,2024-12-10,Resolved,City Plaza,6.0
+CMP300522,CUST100974,Card Issue,Card Blocked,2023-03-30,2023-04-14,Resolved,Uptown,15.0
+CMP300523,CUST100023,Service,Staff Behavior,2024-06-27,2024-07-03,Resolved,South,6.0
+CMP300524,CUST100270,Service,Account Error,2024-10-10,2024-10-26,Resolved,South,16.0
+CMP300525,CUST100094,Loan Delay,Documentation Issue,2023-06-05,2023-06-08,Resolved,Airport,3.0
+CMP300526,CUST100141,Loan Delay,Approval Delay,2023-09-07,2023-09-18,Resolved,South,11.0
+CMP300527,CUST100693,Card Issue,Card Delivery Delay,2023-04-05,2023-04-17,Resolved,Airport,12.0
+CMP300528,CUST100717,App Issue,Failed Payment,2023-01-17,2023-01-20,Resolved,Uptown,3.0
+CMP300529,CUST100901,Card Issue,Card Delivery Delay,2023-04-27,,Pending,South,
+CMP300530,CUST100973,Loan Delay,Documentation Issue,2023-11-29,2023-12-19,Resolved,East,20.0
+CMP300531,CUST100080,Loan Delay,Approval Delay,2024-06-05,,Pending,Central,
+CMP300532,CUST100273,App Issue,Crash,2023-03-21,2023-03-21,Resolved,Uptown,0.0
+CMP300533,CUST100275,Service,Staff Behavior,2024-10-07,2024-10-07,Resolved,South,0.0
+CMP300534,CUST100882,Card Issue,Card Delivery Delay,2024-03-07,,Pending,Central,
+CMP300535,CUST100957,App Issue,Login Failure,2023-07-22,2023-07-28,Resolved,North,6.0
+CMP300536,CUST100464,App Issue,Crash,2023-04-26,,Pending,West,
+CMP300537,CUST100207,App Issue,Crash,2023-08-08,2023-08-16,Resolved,City Plaza,8.0
+CMP300538,CUST100295,App Issue,Login Failure,2023-09-10,2023-09-10,Resolved,City Plaza,0.0
+CMP300539,CUST100038,App Issue,Failed Payment,2023-06-18,2023-07-03,Resolved,Uptown,15.0
+CMP300540,CUST100947,Service,Staff Behavior,2023-11-12,2023-11-29,Resolved,North,17.0
+CMP300541,CUST100287,Loan Delay,Documentation Issue,2024-12-17,2025-01-07,Resolved,South,21.0
+CMP300542,CUST100123,App Issue,Crash,2024-01-07,2024-02-06,Resolved,City Plaza,30.0
+CMP300543,CUST100875,App Issue,Login Failure,2024-08-05,2024-08-19,Resolved,Airport,14.0
+CMP300544,CUST100968,Service,KYC Delay,2023-06-05,2023-06-10,Resolved,North,5.0
+CMP300545,CUST100282,Service,Account Error,2024-09-05,,Pending,East,
+CMP300546,CUST100877,Service,Account Error,2023-01-13,,Pending,Central,
+CMP300547,CUST100179,App Issue,Login Failure,2024-05-22,2024-05-23,Resolved,Airport,1.0
+CMP300548,CUST100096,Service,Staff Behavior,2024-04-09,,Pending,City Plaza,
+CMP300549,CUST100190,Card Issue,Card Blocked,2023-08-08,2023-08-16,Resolved,Airport,8.0
+CMP300550,CUST100073,Service,KYC Delay,2023-01-15,2023-01-18,Resolved,South,3.0
+CMP300551,CUST100446,Service,Account Error,2023-04-27,2023-05-09,Resolved,East,12.0
+CMP300552,CUST100784,Service,Account Error,2023-11-27,2023-12-19,Resolved,Central,22.0
+CMP300553,CUST100496,Service,KYC Delay,2023-02-25,2023-03-18,Resolved,East,21.0
+CMP300554,CUST100560,Loan Delay,Approval Delay,2023-12-17,2023-12-27,Resolved,North,10.0
+CMP300555,CUST100483,Loan Delay,Documentation Issue,2023-05-12,2023-05-24,Resolved,South,12.0
+CMP300556,CUST100848,App Issue,Login Failure,2023-08-14,2023-08-24,Resolved,Airport,10.0
+CMP300557,CUST100721,Service,KYC Delay,2023-11-04,2023-11-22,Resolved,Airport,18.0
+CMP300558,CUST100115,Service,Account Error,2024-04-19,2024-04-26,Resolved,North,7.0
+CMP300559,CUST100534,App Issue,Failed Payment,2023-08-10,2023-08-16,Resolved,Airport,6.0
+CMP300560,CUST100097,Card Issue,Card Delivery Delay,2023-06-22,2023-07-16,Resolved,West,24.0
+CMP300561,CUST100327,Service,Account Error,2023-12-06,2023-12-21,Resolved,South,15.0
+CMP300562,CUST100908,App Issue,Crash,2024-05-20,2024-05-22,Resolved,North,2.0
+CMP300563,CUST100406,App Issue,Failed Payment,2023-06-06,2023-06-22,Resolved,South,16.0
+CMP300564,CUST100312,Service,KYC Delay,2023-05-31,,Pending,Central,
+CMP300565,CUST100701,App Issue,Login Failure,2024-11-27,2024-12-14,Resolved,South,17.0
+CMP300566,CUST100693,Service,KYC Delay,2023-06-27,2023-07-24,Resolved,South,27.0
+CMP300567,CUST100147,Loan Delay,Documentation Issue,2024-06-16,2024-07-12,Resolved,Central,26.0
+CMP300568,CUST100341,Service,Staff Behavior,2023-04-22,2023-05-06,Resolved,North,14.0
+CMP300569,CUST100494,App Issue,Crash,2024-11-13,2024-12-10,Resolved,South,27.0
+CMP300570,CUST100947,Service,KYC Delay,2023-05-18,,Pending,East,
+CMP300571,CUST100022,Card Issue,Limit Issue,2023-08-21,2023-09-06,Resolved,South,16.0
+CMP300572,CUST100104,Service,Staff Behavior,2023-11-28,2023-12-08,Resolved,North,10.0
+CMP300573,CUST100674,Loan Delay,Approval Delay,2024-06-25,2024-06-29,Resolved,Uptown,4.0
+CMP300574,CUST100578,Loan Delay,Documentation Issue,2023-11-03,2023-11-18,Resolved,Airport,15.0
+CMP300575,CUST100801,Card Issue,Card Blocked,2023-06-10,,Pending,City Plaza,
+CMP300576,CUST100800,App Issue,Login Failure,2024-02-06,2024-02-20,Resolved,Central,14.0
+CMP300577,CUST100557,App Issue,Crash,2024-08-12,2024-08-21,Resolved,Airport,9.0
+CMP300578,CUST100592,Service,Account Error,2023-10-05,2023-10-18,Resolved,North,13.0
+CMP300579,CUST100940,Service,Staff Behavior,2023-11-16,,Pending,West,
+CMP300580,CUST100658,App Issue,Crash,2024-06-16,2024-06-17,Resolved,City Plaza,1.0
+CMP300581,CUST100221,Service,Account Error,2024-05-11,,Pending,Airport,
+CMP300582,CUST100854,Card Issue,Limit Issue,2023-12-29,2024-01-13,Resolved,South,15.0
+CMP300583,CUST100014,Service,KYC Delay,2024-01-07,2024-01-25,Resolved,City Plaza,18.0
+CMP300584,CUST100890,App Issue,Login Failure,2024-10-16,2024-10-23,Resolved,South,7.0
+CMP300585,CUST100632,App Issue,Login Failure,2023-02-05,2023-02-19,Resolved,Central,14.0
+CMP300586,CUST100077,App Issue,Crash,2023-10-30,2023-11-08,Resolved,South,9.0
+CMP300587,CUST100321,App Issue,Login Failure,2024-03-13,2024-04-11,Resolved,City Plaza,29.0
+CMP300588,CUST100806,Service,Staff Behavior,2024-12-26,2024-12-30,Resolved,East,4.0
+CMP300589,CUST100240,App Issue,Failed Payment,2023-02-01,,Pending,East,
+CMP300590,CUST100017,Service,Account Error,2023-07-05,,Pending,Uptown,
+CMP300591,CUST100767,Card Issue,Limit Issue,2023-06-23,2023-07-12,Resolved,Airport,19.0
+CMP300592,CUST100453,Loan Delay,Approval Delay,2024-07-19,2024-08-03,Resolved,North,15.0
+CMP300593,CUST100442,Card Issue,Limit Issue,2024-11-03,2024-11-23,Resolved,Uptown,20.0
+CMP300594,CUST100927,Service,KYC Delay,2023-09-07,2023-10-02,Resolved,Central,25.0
+CMP300595,CUST100276,Service,Account Error,2023-10-06,2023-10-27,Resolved,West,21.0
+CMP300596,CUST100423,Service,Staff Behavior,2024-11-13,2024-11-24,Resolved,Uptown,11.0
+CMP300597,CUST100475,Service,Account Error,2024-11-25,2024-12-17,Resolved,Airport,22.0
+CMP300598,CUST100026,Service,KYC Delay,2023-01-02,2023-01-31,Resolved,North,29.0
+CMP300599,CUST100513,App Issue,Crash,2023-07-13,2023-07-25,Resolved,Central,12.0
